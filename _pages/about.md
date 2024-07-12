@@ -7,17 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-As a passionate computer scientist and electrical engineer, I am committed to pushing the boundaries of brain-computer interface (BCI) technology. My work revolves around integrating advanced physiological data such as EEG, fNIRS, and fMRI to create accessible, real-time signal processing solutions through machine learning and deep learning techniques.
-
-With a Master's in Computer Science from Columbia University and a double major in Computer Science and Electrical & Computer Engineering from Worcester Polytechnic Institute, I have led multiple research teams to publish groundbreaking articles in top Human-Computer Interaction journals. These efforts have significantly contributed to the research community and propelled the development of innovative technologies.
-
-My career goal is to advance the fields of Human-Computer Interaction and biomedical imaging. I aim to develop cutting-edge, accessible technologies that improve lives, particularly for disabled individuals. I believe that technology should bridge gaps and create opportunities for everyone, regardless of their physical capabilities.
-
-In addition to my professional pursuits, I am an avid pianist with a deep appreciation for Chopin. Music allows me to express emotions and connect with others, complementing my technical expertise and fueling my drive to innovate.
-
-I am excited about the future of BCI technology and the potential it holds for transforming daily life and accessibility. Let's connect and explore how we can collaborate to push the frontiers of technology and make a meaningful impact.
+Welcome! I'm a dynamic researcher, inventive game developer, and a passionate pianist with an unwavering love for Chopin. With a strong foundation in computer science and electrical engineering, I specialize in pioneering brain-computer interface (BCI) technology. My work focuses on integrating advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a desire to bridge gaps and create opportunities, I am dedicated to advancing Human-Computer Interaction and biomedical imaging to improve lives and make technology accessible to all.
 
 
+## Education
+
+**Columbia University**  
+*Sep 2022 - May 2024*
+- Master of Computer Science (Thesis Track)
+- Thesis: From Brain–Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies
+- Brain Computer Interfaces & Neuroimaging Research
+- GPA: 3.81
+
+**Worcester Polytechnic Institute**  
+*Aug 2018 - May 2022*
+- Bachelor Of Computer Science & Electrical and Computer Engineering (Double Major)
+- Mechanical Engineering (Minor)
+- Human-Computer Interaction
+- GPA: 3.91
 
 
 
