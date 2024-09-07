@@ -25,3 +25,17 @@ author_profile: true
 
 
 
+
+[comment]: <> ({% if site.author.googlescholar %})
+
+[comment]: <> (  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=phrai3MAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>)
+
+[comment]: <> ({% endif %})
+
+[comment]: <> ({% include base_path %})
+
+[comment]: <> ({% for post in site.publications reversed %})
+
+[comment]: <> (  {% include archive-single.html %})
+
+[comment]: <> ({% endfor %})
