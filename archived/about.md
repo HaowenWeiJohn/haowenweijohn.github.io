@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![John](/images/John.jpg){: .align-right width="300" height="300"}
+![John](/images/500x300.png){: .align-right height="300"}
 
 Welcome! I'm a dynamic researcher, inventive game developer, and a passionate pianist with an unwavering love for Chopin. With a strong foundation in computer science and electrical engineering, I specialize in pioneering brain-computer interface (BCI) technology. My work focuses on integrating advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a desire to bridge gaps and create opportunities, I am dedicated to advancing Human-Computer Interaction and biomedical imaging to improve lives and make technology accessible to all.
 
