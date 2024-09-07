@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+
 **\* These Authors Contributed Equally.**
 
 - **_Wei, Haowen_**\*, Ziheng Li\*, Alexander D. Galvan, Zhuoran Su, Xiao Zhang, Kaveh Pahlavan, and Erin T. Solovey. "IndexPen: Two-Finger Text Input with Millimeter-Wave Radar." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* 6, no. 2 (2022): 1-39. [Paper](https://dl.acm.org/doi/10.1145/3534601)
