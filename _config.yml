@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haowewn's Homepage"
+title                    : "Haowen's Homepage"
 title_separator          : "-"
 name                     : &name "Haowen 'John' Wei"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "HaowenWeiJohn"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Haowewn 'John' Wei"
+  name             : "Haowen 'John' Wei"
   pronouns         : # example: "she/her"  
   bio              : "I'm a research wizard, game-making maestro, and Chopin-obsessed pianist!"
   location         : "Boston, MA"
