@@ -18,27 +18,41 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 **Advisor:** [Dr. Steven K. Feiner](https://www.cs.columbia.edu/~feiner/) & [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
 
 ## Overview
-I co-founded **PhysioLabXR** during my **sophomore year** at Worcester Polytechnic Institute (WPI) and have continued its development through my time at Columbia University. PhysioLabXR is an open-source **Python-based software platform** designed for real-time **multi-modal brain-computer interfaces (BCI)** and extended reality experiments. The platform integrates data from various sensors, such as **EEG, EMG, fNIRS, and eye trackers**, to process and visualize physiological data in real-time, enabling seamless neuroscience and HCI experiments.
+I co-founded PhysioLabXR with my friend _Ziheng 'Leo' Li_ during my sophomore year at Worcester Polytechnic Institute (WPI) and have continued its development through my time at Columbia University. 
+PhysioLabXR is an open-source **Python-based software platform** designed for real-time 
+**multi-modal brain-computer interfaces (BCI)** and extended reality experiments. 
+The platform integrates data from various sensors, such as **EEG, EMG, fNIRS, and eye trackers**, 
+to process and visualize physiological data in real-time, 
+enabling seamless neuroscience and HCI experiments.
 
-I introduced **PhysioLabXR** to research labs across institutions, including the **Laboratory for Intelligent Imaging and Neural Computing (LIINC Lab)**, **Columbia Graphics and User Interfaces Lab (CGUI Lab)**, and **Martinos Center TMS Lab at Harvard Medical School**, as well as the **Human-Computer Interaction (HCI) Labs at WPI**.
+I introduced PhysioLabXR to research labs across institutions, 
+including the Laboratory for 
+Intelligent Imaging and Neural Computing (LIINC Lab), 
+Columbia Graphics and User Interfaces Lab (CGUI Lab) and
+AI for Visualization Lab (AI4Vis Lab)
+at Columbia University,
+and Martinos Center TMS Lab at Harvard Medical School, 
+as well as the Human-Computer Interaction (HCI) Labs at WPI.
 
 ## Key Contributions
 - **Leadership**: Led the platform development from concept to implementation, managing data visualization, device interfaces, and real-time signal processing modules.
-- **Sensor Fusion**: Developed a comprehensive application for sensor fusion, integrating multiple data streams using the **Lab Streaming Layer (LSL)** protocol and supporting additional sensors through serial connections.
-- **User Education**: Created multiple **demonstration Brain-Computer Interface paradigms**, such as the P300 Speller, to help researchers adopt and utilize the platform.
-- **Experiment Pipeline**: Enabled users to perform **real-time neural network inference** and gain full control over their experimental pipeline with **customizable DSP modules**.
+- **Sensor Fusion**: Developed a comprehensive application for sensor fusion, integrating multiple data streams using the Lab Streaming Layer (LSL) protocol and supporting additional sensors through serial connections.
+- **User Education**: Created multiple demonstration Brain-Computer Interface paradigms, such as the P300 Speller and SSVEP, to help researchers adopt and utilize the platform.
+- **Experiment Pipeline**: Enabled users to perform real-time neural network inference and gain full control over their experimental pipeline with customizable DSP modules.
 
 ## Novelty
-- Developed an innovative platform that provides **real-time multi-stream data visualization and processing**, making it a valuable tool for both BCI and HCI research communities.
-- The platform’s ability to integrate various sensors and process large datasets in real-time sets a foundation for future research in **neurotechnology** and **extended reality**.
+- Developed an innovative platform that provides real-time multi-stream data visualization and processing, making it a valuable tool for both BCI and HCI research communities.
+- The platform’s ability to integrate various sensors and process large datasets in real-time sets a foundation for future research in neurotechnology and extended reality.
 
 ## Awards & Achievements
-- **Co-Founder and Co-First Author** of the publication in [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.05854).  
+- Co-Founder and Co-First Author of the publication in [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.05854).  
 
 ## Publications Using PhysioLabXR (paper that are under review or in preparation is not included):
 - Wei, Haowen, Ziheng Li, Alexander D. Galvan, Zhuoran Su, Xiao Zhang, Kaveh Pahlavan, and Erin T. Solovey. "IndexPen: Two-Finger Text Input with Millimeter-Wave Radar." Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies 6, no. 2 (2022): 1-39.
 - Koorathota, Sharath Chandra. "Multimodal deep learning systems for analysis of human behavior, preference, and state." PhD diss., Columbia University, 2023.
 - Lapborisuth, Pawan, Sharath Koorathota, and Paul Sajda. "Pupil-linked arousal modulates network-level EEG signatures of attention reorienting during immersive multitasking." Journal of Neural Engineering 20, no. 4 (2023): 046043.
+
+
 
 **Supplementary Video:**
 
