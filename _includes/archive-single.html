@@ -55,153 +55,34 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.citation and post.paperurl and post.slidesurl and post.codeurl and post.dataseturl and post.videourl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.citation and post.paperurl and post.slidesurl and post.codeurl and post.dataseturl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.citation and post.paperurl and post.slidesurl and post.videourl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.citation and post.paperurl and post.codeurl and post.dataseturl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.citation and post.slidesurl and post.codeurl and post.dataseturl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.paperurl and post.slidesurl and post.codeurl and post.dataseturl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.citation and post.paperurl and post.videourl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.citation and post.paperurl and post.codeurl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.codeurl }}">Code</a></p>
-    {% elsif post.citation and post.paperurl and post.dataseturl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.citation and post.slidesurl and post.codeurl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a></p>
-    {% elsif post.citation and post.slidesurl and post.videourl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.citation and post.slidesurl and post.dataseturl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.citation and post.codeurl and post.videourl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.citation and post.codeurl and post.dataseturl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.citation and post.dataseturl and post.videourl %}
-    <p>Recommended citation: {{ post.citation }}<br />
-      <a href="{{ post.dataseturl }}">Dataset</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.paperurl and post.slidesurl and post.codeurl and post.videourl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.paperurl and post.slidesurl and post.dataseturl and post.videourl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.paperurl and post.codeurl and post.dataseturl and post.videourl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.slidesurl and post.codeurl and post.dataseturl and post.videourl %}
-    <p>
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.paperurl and post.slidesurl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.paperurl and post.codeurl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.codeurl }}">Code</a></p>
-    {% elsif post.paperurl and post.dataseturl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.paperurl and post.videourl %}
-    <p>
-      <a href="{{ post.paperurl }}">Download Paper</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.slidesurl and post.codeurl %}
-    <p>
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.codeurl }}">Code</a></p>
-    {% elsif post.slidesurl and post.dataseturl %}
-    <p>
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.slidesurl and post.videourl %}
-    <p>
-      <a href="{{ post.slidesurl }}">Download Slides</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.codeurl and post.dataseturl %}
-    <p>
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.codeurl and post.videourl %}
-    <p>
-      <a href="{{ post.codeurl }}">Code</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.dataseturl and post.videourl %}
-    <p>
-      <a href="{{ post.dataseturl }}">Dataset</a> |
-      <a href="{{ post.videourl }}">Video</a></p>
-    {% elsif post.citation %}
+    {% if post.citation %}
     <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-    <p><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.slidesurl %}
-    <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.codeurl %}
-    <p><a href="{{ post.codeurl }}">Code</a></p>
-    {% elsif post.dataseturl %}
-    <p><a href="{{ post.dataseturl }}">Dataset</a></p>
-    {% elsif post.videourl %}
-    <p><a href="{{ post.videourl }}">Video</a></p>
     {% endif %}
+
+    {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl or post.videourl %}
+    <p>
+      {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">Download Paper</a>
+      {% endif %}
+      {% if post.slidesurl %}
+      {% if post.paperurl %} | {% endif %}
+      <a href="{{ post.slidesurl }}">Download Slides</a>
+      {% endif %}
+      {% if post.codeurl %}
+      {% if post.paperurl or post.slidesurl %} | {% endif %}
+      <a href="{{ post.codeurl }}">Code</a>
+      {% endif %}
+      {% if post.dataseturl %}
+      {% if post.paperurl or post.slidesurl or post.codeurl %} | {% endif %}
+      <a href="{{ post.dataseturl }}">Dataset</a>
+      {% endif %}
+      {% if post.videourl %}
+      {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl %} | {% endif %}
+      <a href="{{ post.videourl }}">Video</a>
+      {% endif %}
+    </p>
+    {% endif %}
+
 
   </article>
 </div>
