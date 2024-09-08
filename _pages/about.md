@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 
-![Performance](../images/in-vr.png){: .align-right width="300px"}
+![performance](../images/performance.png){: .align-left width="300px"}
 👋 Welcome! I'm a dynamic researcher 🧠, 
 inventive game developer 🎮, 
 and a passionate pianist 🎹 with an unwavering love for Chopin 🎼. 
 
+![in-vr](../images/in-vr.png){: .align-right width="200px"}
 With a strong foundation in computer science and electrical engineering, 
 I specialize in pioneering brain-computer interface (BCI) technology. 
 My work focuses on integrating advanced physiological data to create real-time, 
