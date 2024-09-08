@@ -7,7 +7,7 @@ excerpt: 'PhysioLabXR is a Python-based open-source software platform for neuros
 date: 2024-01-11
 venue: '[Journal of Open Source Software, September 2023.](https://joss.theoj.org/papers/10.21105/joss.05854)'
 paperurl: 'http://haowenweijohn.github.io/files/publications/2024-01-11-PhysioLabXR.pdf'
-dataseturl: 'https://github.com/PhysioLabXR/PhysioLabXR'
+codeurl: 'https://github.com/PhysioLabXR/PhysioLabXR-Community'
 videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 ---
 
@@ -53,7 +53,11 @@ as well as the Human-Computer Interaction (HCI) Labs at WPI.
 - Lapborisuth, Pawan, Sharath Koorathota, and Paul Sajda. "Pupil-linked arousal modulates network-level EEG signatures of attention reorienting during immersive multitasking." Journal of Neural Engineering 20, no. 4 (2023): 046043.
 
 
+---
 
+For more information, please check out the [PhysioLabXR GitHub repository](https://github.com/PhysioLabXR/PhysioLabXR-Community) and [Documentation](https://physiolabxrdocs.readthedocs.io/en/latest/).
+
+---
 **Supplementary Video:**
 
 [![PhysioLabXR](https://img.youtube.com/vi/IJpYk-y0O2g/0.jpg)](https://www.youtube.com/watch?v=IJpYk-y0O2g)
