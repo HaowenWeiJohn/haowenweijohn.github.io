@@ -47,20 +47,49 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl or post.videourl %}
+        <p>
+          {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">Download Paper</a>
+          {% endif %}
+          {% if post.slidesurl %}
+          {% if post.paperurl %} | {% endif %}
+          <a href="{{ post.slidesurl }}">Download Slides</a>
+          {% endif %}
+          {% if post.codeurl %}
+          {% if post.paperurl or post.slidesurl %} | {% endif %}
+          <a href="{{ post.codeurl }}">Code</a>
+          {% endif %}
+          {% if post.dataseturl %}
+          {% if post.paperurl or post.slidesurl or post.codeurl %} | {% endif %}
+          <a href="{{ post.dataseturl }}">Dataset</a>
+          {% endif %}
+          {% if post.videourl %}
+          {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl %} | {% endif %}
+          <a href="{{ post.videourl }}">Video</a>
+          {% endif %}
+        </p>
         {% endif %}
+        <!--        {% if page.citation and page.paperurl and page.slidesurl %}-->
+<!--          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>-->
+<!--        {% elsif page.citation and page.paperurl %}-->
+<!--          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>-->
+<!--        {% elsif page.citation and page.slidesurl %}-->
+<!--          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>-->
+<!--        {% elsif page.citation %}-->
+<!--          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>-->
+<!--        {% elsif page.slidesurl %}-->
+<!--          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>-->
+<!--        {% endif %}-->
 
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+<!--        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}-->
       </section>
+
+
+
+
+
+
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
