@@ -51,6 +51,10 @@ layout: default
         <p>Recommended citation: {{ post.citation }}</p>
         {% endif %}
 
+        {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">Download Paper</a>
+        {% endif %}
+
         {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl or post.videourl %}
         <p>
           {% if post.paperurl %}
