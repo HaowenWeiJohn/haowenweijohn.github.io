@@ -47,6 +47,26 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+
+      <div style="display: flex; gap: 10px; font-size: smaller">
+        {% if page.paperurl %}
+        <a href="{{ page.paperurl }}">Download Paper</a>
+        {% endif %}
+        {% if page.slidesurl %}
+        <span>|</span> <a href="{{ page.slidesurl }}">Download Slides</a>
+        {% endif %}
+        {% if page.codeurl %}
+        <span>|</span> <a href="{{ page.codeurl }}">Code</a>
+        {% endif %}
+        {% if page.dataseturl %}
+        <span>|</span> <a href="{{ page.dataseturl }}">Dataset</a>
+        {% endif %}
+        {% if page.videourl %}
+        <span>|</span> <a href="{{ page.videourl }}">Video</a>
+        {% endif %}
+      </div>
+
+
         {% if page.paperurl %}
           <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download John</a></p>
         {% endif %}
