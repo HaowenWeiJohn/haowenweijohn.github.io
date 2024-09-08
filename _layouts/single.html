@@ -51,6 +51,35 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download John</a></p>
         {% endif %}
 
+
+
+        {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl or post.videourl %}
+        <p  style="font-size: smaller">
+          {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">Download Paper</a>
+          {% endif %}
+          {% if post.slidesurl %}
+          {% if post.paperurl %} | {% endif %}
+          <a href="{{ post.slidesurl }}">Download Slides</a>
+          {% endif %}
+          {% if post.codeurl %}
+          {% if post.paperurl or post.slidesurl %} | {% endif %}
+          <a href="{{ post.codeurl }}">Code</a>
+          {% endif %}
+          {% if post.dataseturl %}
+          {% if post.paperurl or post.slidesurl or post.codeurl %} | {% endif %}
+          <a href="{{ post.dataseturl }}">Dataset</a>
+          {% endif %}
+          {% if post.videourl %}
+          {% if post.paperurl or post.slidesurl or post.codeurl or post.dataseturl %} | {% endif %}
+          <a href="{{ post.videourl }}">Video</a>
+          {% endif %}
+        </p>
+        {% endif %}
+
+
+
+
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
