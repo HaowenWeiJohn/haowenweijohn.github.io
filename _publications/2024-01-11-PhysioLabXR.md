@@ -14,7 +14,7 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 ![TeaserImage](../images/publications/2024-01-11-PhysioLabXR-Teaser.png)
 
 **Duration:** May 2020 – Present  
-**Role:** Co-Founder, Lead Software Engineer, Co-First Author 
+**Role:** Co-Founder, Lead Software Engineer, Co-First Author  
 **Advisor:** [Dr. Steven K. Feiner](https://www.cs.columbia.edu/~feiner/) & [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
 
 ## Overview
