@@ -21,6 +21,20 @@ accessible signal processing solutions through machine learning and deep learnin
 Driven by a desire to bridge gaps and create opportunities, I am dedicated to advancing Human-Computer Interaction and biomedical imaging to improve lives and make technology accessible to all.
 
 
+<u>Research Interests:</u> 
+Brain-Computer Interfaces (BCI),
+Human-Computer Interaction (HCI),
+Virtual Reality (VR),
+Augmented Reality (AR),
+Neuroimaging (fMRI, EEG),
+Brain Stimulation (TMS, TES),
+Signal Processing,
+Deep Learning, Machine Learning,
+Computer Vision,
+Mobile and Ubiquitous Computing.
+
+<u>Other Interests:</u> Piano, Soccer, Chess
+
 ## Education
 
 **Columbia University**  

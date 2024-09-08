@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: [Publications](https://scholar.google.com/citations?user=phrai3MAAAAJ&hl=en&oi=ao)
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
