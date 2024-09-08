@@ -33,10 +33,12 @@ I introduced **PhysioLabXR** to research labs across institutions, including the
 - The platform’s ability to integrate various sensors and process large datasets in real-time sets a foundation for future research in **neurotechnology** and **extended reality**.
 
 ## Awards & Achievements
-- **Co-Founder and Co-First Author** of the publication in **Journal of Open Source Software**:  
-  [Ziheng Li\*, Haowen Wei\*, Ziwen Xie, Yunxiang Peng, June Pyo Suh, Steven Feiner, Paul Sajda. "PhysioLabXR: A Software Platform for Real-Time Multi-Modal Brain-Computer Interfaces and Extended Reality Experiments."](https://joss.theoj.org/papers/10.21105/joss.05854)
+- **Co-Founder and Co-First Author** of the publication in [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.05854).  
 
-
+## Publications Using PhysioLabXR (paper that are under review or in preparation is not included):
+- Wei, Haowen, Ziheng Li, Alexander D. Galvan, Zhuoran Su, Xiao Zhang, Kaveh Pahlavan, and Erin T. Solovey. "IndexPen: Two-Finger Text Input with Millimeter-Wave Radar." Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies 6, no. 2 (2022): 1-39.
+- Koorathota, Sharath Chandra. "Multimodal deep learning systems for analysis of human behavior, preference, and state." PhD diss., Columbia University, 2023.
+- Lapborisuth, Pawan, Sharath Koorathota, and Paul Sajda. "Pupil-linked arousal modulates network-level EEG signatures of attention reorienting during immersive multitasking." Journal of Neural Engineering 20, no. 4 (2023): 046043.
 
 **Supplementary Video:**
 
