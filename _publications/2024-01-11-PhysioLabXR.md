@@ -44,11 +44,6 @@ as well as the **Human-Computer Interaction (HCI) Lab** at WPI.
 - Developed an innovative platform that provides **real-time multi-stream data visualization and processing**, making it a valuable tool for both BCI and HCI research communities.
 - The platform’s ability to integrate various sensors and process large datasets in real-time sets a foundation for future research in **neurotechnology** and **extended reality**.
 
-[//]: # (## Awards & Publications)
-
-[//]: # (- **Co-Founder and Co-First Author** of the publication in **Journal of Open Source Software**:  )
-
-[//]: # (  [Ziheng Li\*, Haowen Wei\*, Ziwen Xie, Yunxiang Peng, June Pyo Suh, Steven Feiner, Paul Sajda. "PhysioLabXR: A Software Platform for Real-Time Multi-Modal Brain-Computer Interfaces and Extended Reality Experiments."]&#40;https://joss.theoj.org/papers/10.21105/joss.05854&#41;)
 
 ## Publications Using PhysioLabXR (paper that are under review or in preparation is not included):
 - Wei, Haowen, Ziheng Li, Alexander D. Galvan, Zhuoran Su, Xiao Zhang, Kaveh Pahlavan, and Erin T. Solovey. "IndexPen: Two-Finger Text Input with Millimeter-Wave Radar." Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies 6, no. 2 (2022): 1-39.
