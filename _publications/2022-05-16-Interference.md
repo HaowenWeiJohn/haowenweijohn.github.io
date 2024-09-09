@@ -16,6 +16,9 @@ paperurl: 'http://haowenweijohn.github.io/files/publications/2022-05-16-Interfer
 **Advisor:** [Dr. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan) & [Dr. Seyed Zekavat](https://www.wpi.edu/people/faculty/rezaz)
 
 ## Overview
+
+This study presents an empirical analysis of mutual interference between **IEEE 802.11ad communication systems** and **millimeter-wave radar** operating in the **60 GHz band**. The research investigates the impact of interference on radar performance, including coverage and precision, and models the effect on packet loss rates in wireless communications. The study aims to provide insights into the practical implications of interference between radar and communication systems, offering valuable information for future research and system design.
+
 As part of this project, I contributed as the **Lead Software Engineer**, helping design the data collection pipeline for the **millimeter-wave radar**. While working on **IndexPen**, I leveraged my expertise in **mmWave radar** to assist in analyzing the interference between **IEEE 802.11ad communication systems** and **60 GHz mmWave radar**. The project aimed to investigate mutual interference and its impact on radar performance, including coverage and precision, as well as the packet loss rate for communication systems.
 
 ## Key Contributions
