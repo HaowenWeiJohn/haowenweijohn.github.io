@@ -1,7 +1,7 @@
 ---
 title: "Proximity Detection During Epidemics: Direct UWB TOA Versus Machine Learning Based RSSI."
 collection: publications
-authors: '**_Zhuoran Su_**, Kaveh Pahlavan, Emmanuel Agu, **_Haowen Wei_**'
+authors: 'Zhuoran Su, Kaveh Pahlavan, Emmanuel Agu, **_Haowen Wei_**'
 permalink: /publication/2022-10-14-Proximity
 excerpt: 'This study compares the proximity detection performance of UWB TOA and machine learning-based BLE RSSI during epidemics. The results show UWB TOA achieves slightly higher accuracy with less computational complexity, while BLE RSSI requires extensive training for similar results. The study evaluates both technologies in different environments and postures to assess their robustness for social distancing applications.'
 date: 2022-10-14
