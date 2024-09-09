@@ -35,25 +35,40 @@ Mobile and Ubiquitous Computing.
 
 <u>Other Interests:</u> Piano, Soccer, Chess
 
-## Education
+[//]: # (## Education)
 
-**Columbia University**  
-*Sep 2022 - May 2024*
-- Master of Computer Science (Thesis Track)
-- Thesis Topic: From Brain–Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies
-- Research in Brain-Computer Interfaces and Neuroimaging
-- GPA: 3.81
+[//]: # ()
+[//]: # (**Columbia University**  )
 
-**Worcester Polytechnic Institute**  
-*Aug 2018 - May 2022*
-- Bachelor Of Computer Science & Electrical and Computer Engineering (Double Major)
-- Mechanical Engineering (Minor)
-- Human-Computer Interaction
-- GPA: 3.91
+[//]: # (*Sep 2022 - May 2024*)
+
+[//]: # (- Master of Computer Science &#40;Thesis Track&#41;)
+
+[//]: # (- Thesis Topic: From Brain–Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies)
+
+[//]: # (- Research in Brain-Computer Interfaces and Neuroimaging)
+
+[//]: # (- GPA: 3.81)
+
+[//]: # ()
+[//]: # (**Worcester Polytechnic Institute**  )
+
+[//]: # (*Aug 2018 - May 2022*)
+
+[//]: # (- Bachelor Of Computer Science & Electrical and Computer Engineering &#40;Double Major&#41;)
+
+[//]: # (- Mechanical Engineering &#40;Minor&#41;)
+
+[//]: # (- Human-Computer Interaction)
+
+[//]: # (- GPA: 3.91)
 
 
 
 ## Publications
+
+Please refer to [Publications Page](https://haowenweijohn.github.io/publications/)
+for more details.
 
 **\* These Authors Contributed Equally.**
 
@@ -64,11 +79,11 @@ Mobile and Ubiquitous Computing.
 - Ziheng Li\*, **_Haowen Wei_**\*, Ziwen Xie, Yunxiang Peng, June Pyo Suh, Steven Feiner, Paul Sajda. "PhysioLabXR: A software platform for real-time multi-modal, brain-computer interfaces and extended reality experiments." *Journal of Open Source Software*, Sep 2023. [Paper](https://joss.theoj.org/papers/10.21105/joss.05854), [GitHub](https://github.com/PhysioLabXR/PhysioLabXR)
 
 
-## Conference Talks
+## Conference Presentations
 
-- **2023 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "PhysioLabXR: A software platform in Python for multi-modal brain-computer interface and real-time experiment pipelines." **Haowen Wei**, Ziheng Li, Steven Feiner, Paul Sajda
-- **2022 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "Hardware, real-time signal processing techniques, and data collection for TMS induced EMG responses with RenaLabApp." **Haowen Wei**, Mohammad Daneshzand
-- **2021 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "Interplay between TES and EEG Interplay with boundary element fast multipole method (BEM-FMM) via Helmholtz reciprocity principle." Sergey Makarov, **Haowen Wei**, Aapo Nummenmaa
+- **2023 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "PhysioLabXR: A software platform in Python for multi-modal brain-computer interface and real-time experiment pipelines." **Haowen Wei**, Ziheng Li, Steven Feiner, Paul Sajda [Link](https://tmslab.martinos.org/conferences/brain-and-human-body-modeling-conference-2023-online-format-with-limited-in-person-participation/)
+- **2022 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "Hardware, real-time signal processing techniques, and data collection for TMS induced EMG responses with RenaLabApp." **Haowen Wei**, Mohammad Daneshzand [Link](https://tmslab.martinos.org/conferences/brain-and-human-body-modeling-conference-2022/)
+- **2021 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "Interplay between TES and EEG Interplay with boundary element fast multipole method (BEM-FMM) via Helmholtz reciprocity principle." Sergey Makarov, **Haowen Wei**, Aapo Nummenmaa [Link](https://tmslab.martinos.org/conference/)
 
 
 
