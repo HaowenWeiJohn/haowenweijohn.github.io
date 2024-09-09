@@ -71,9 +71,9 @@ Mobile and Ubiquitous Computing.
 - **May 1st**: Successfully defended my Master’s thesis,
 [*From Brain-Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies*](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&).
 under the supervision of 
-**[Steven K. Feiner](https://www.cs.columbia.edu/~feiner/)**,
-**[Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)**,
-**[Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)**, at Columbia University🥂.
+[Steven K. Feiner](https://www.cs.columbia.edu/~feiner/),
+[Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda),
+[Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd), at Columbia University🥂.
 
 
 
