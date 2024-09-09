@@ -1,5 +1,5 @@
 ---
-title: "A Study of Interference Analysis Between mmWave Radars and IEEE 802.11 AD at 60 GHz Bands"
+title: "A Study of Interference Analysis Between mmWave Radars and IEEE 802.11 AD at 60 GHz Bands."
 collection: publications
 authors: 'Shiyu Cheng, Kaveh Pahlavan, **_Haowen Wei_**, Zhuoran Su, Seyed Reza Zekavat, and Ali Abedi'
 permalink: /publication/2022-05-16-Interference

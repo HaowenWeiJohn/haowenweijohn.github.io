@@ -1,5 +1,5 @@
 ---
-title: "Proximity Detection During Epidemics: Direct UWB TOA Versus Machine Learning Based RSSI"
+title: "Proximity Detection During Epidemics: Direct UWB TOA Versus Machine Learning Based RSSI."
 collection: publications
 authors: '**_Zhuoran Su_**, Kaveh Pahlavan, Emmanuel Agu, **_Haowen Wei_**'
 permalink: /publication/2022-10-14-Proximity
