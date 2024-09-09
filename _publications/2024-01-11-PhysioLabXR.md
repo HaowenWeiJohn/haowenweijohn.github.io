@@ -58,6 +58,7 @@ as well as the **Human-Computer Interaction (HCI) Lab** at WPI.
 * For more information, please check out the [PhysioLabXR GitHub repository](https://github.com/PhysioLabXR/PhysioLabXR-Community) and [Documentation](https://physiolabxrdocs.readthedocs.io/en/latest/).
 
 ---
+
 **Supplementary Video:**
 
 [![PhysioLabXR](https://img.youtube.com/vi/IJpYk-y0O2g/0.jpg)](https://www.youtube.com/watch?v=IJpYk-y0O2g)
