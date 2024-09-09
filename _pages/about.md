@@ -68,7 +68,7 @@ Mobile and Ubiquitous Computing.
 ## Publications
 
 Please refer to [Publications Page](https://haowenweijohn.github.io/publications/)
-for more details.
+for more details about each paper.
 
 **\* These Authors Contributed Equally.**
 
