@@ -18,14 +18,16 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 **Advisor:** [Dr. Steven K. Feiner](https://www.cs.columbia.edu/~feiner/) & [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
 
 ## Overview
-I co-founded PhysioLabXR with my friend _Ziheng 'Leo' Li_ during my sophomore year at Worcester Polytechnic Institute (WPI) and have continued its development through my time at Columbia University. 
 PhysioLabXR is an open-source **Python-based software platform** designed for real-time 
 **multi-modal brain-computer interfaces (BCI)** and **extended reality** experiments. 
 The platform integrates data from various sensors, such as **EEG, EMG, fNIRS, and eye trackers**, 
 to process and visualize physiological data in real-time, 
 enabling seamless neuroscience and HCI experiments.
 
-I introduced PhysioLabXR to research labs across institutions, 
+I co-founded PhysioLabXR with my friend _Ziheng 'Leo' Li_ during 
+my sophomore year at Worcester Polytechnic Institute (WPI) and have continued its development 
+through my time at Columbia University.
+Over the last four years, I introduced PhysioLabXR to research labs across institutions, 
 including the
 **Laboratory for Intelligent Imaging and Neural Computing (LIINC)**,
 **Computer Graphics and User Interfaces Lab (CGUI)**,and
