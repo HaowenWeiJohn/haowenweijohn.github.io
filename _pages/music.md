@@ -20,8 +20,9 @@ Uploading.......
 
 [//]: # (Youtube video embed)
 
-[//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/1w7OgIMMRc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+Chopin – "Revolutionary" Etude Op.10 No.12
 
+<iframe width="560" height="315" src="https://youtu.be/XgsGGEtzoWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
