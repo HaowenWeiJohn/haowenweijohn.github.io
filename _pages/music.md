@@ -35,7 +35,7 @@ Chopin: Waltz in C sharp minor, op.10 no.12 Veronica Yen (Revolutionary Etude)
 
 Sonatina - 9 Years Old XD (2010)
 
-<iframe width="560" height="200" src="https://youtu.be/v_5i2BeGnDY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="200" src="https://www.youtube.com/watch?v=v_5i2BeGnDY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
