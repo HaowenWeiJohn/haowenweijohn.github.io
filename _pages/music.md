@@ -15,10 +15,12 @@ His works, full of expression and technical elegance, resonate deeply with me. �
 I hope you enjoy my music—check out my performances below! 🎧
 
 
+## Performances
+Uploading.......
 
 [//]: # (Youtube video embed)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1w7OgIMMRc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/1w7OgIMMRc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 
