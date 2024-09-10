@@ -22,12 +22,23 @@ Uploading.......
 
 Chopin – "Revolutionary" Etude Op.10 No.12
 
-<iframe width="560" height="315" src="https://youtu.be/XgsGGEtzoWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="200" src="https://youtu.be/XgsGGEtzoWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+---
+
+Chopin: Waltz in C sharp minor, op.10 no.12 Veronica Yen (Revolutionary Etude)
+
+<iframe width="560" height="200" src="https://youtu.be/Mwau3yRSbIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Sonatina - 9 Years Old XD (2010)
+
+<iframe width="560" height="200" src="https://youtu.be/v_5i2BeGnDY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+---
 
 
 
