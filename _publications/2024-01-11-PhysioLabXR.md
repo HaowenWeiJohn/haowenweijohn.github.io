@@ -1,4 +1,4 @@
----
+`---
 title: "PhysioLabXR: A Software Platform for Real-Time Multi-Modal Brain-Computer Interfaces and Extended Reality Experiments"
 collection: publications
 authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Ziwen Xie, Yunxiang Peng, June Pyo Suh, Steven Feiner, Paul Sajda'
@@ -61,4 +61,4 @@ as well as the **Human-Computer Interaction (HCI) Lab** at WPI.
 
 **Supplementary Video:**
 
-[![PhysioLabXR](https://img.youtube.com/vi/IJpYk-y0O2g/0.jpg)](https://www.youtube.com/watch?v=IJpYk-y0O2g)
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/IJpYk-y0O2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)`
