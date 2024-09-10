@@ -72,7 +72,7 @@ Mobile and Ubiquitous Computing.
 *From Brain-Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies*
 ([Paper](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&))📝,
 under the supervision of 
-[Steven K. Feiner](https://www.cs.columbia.edu/~feiner/),
+[Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner),
 [Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda),
 [Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd), at Columbia University.🥳
 
