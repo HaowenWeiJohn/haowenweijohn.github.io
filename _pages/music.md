@@ -22,6 +22,13 @@ Uploading.......
 
 Chopin – "Revolutionary" Etude Op.10 No.12
 
+
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/1w7OgIMMRc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+
+(<iframe width="560" height="315" src="https://www.youtube.com/watch?v=v_5i2BeGnDY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+
 <iframe width="560" height="200" src="https://youtu.be/XgsGGEtzoWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
