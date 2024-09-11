@@ -11,7 +11,9 @@ redirect_from:
 ![performance](../images/performance.png){: .align-right width="300px"}
 👋 Welcome! I'm a dynamic researcher 🧠, 
 inventive game developer 🎮, 
-and a passionate pianist 🎹 with an unwavering love for Chopin 🎼. 
+and a passionate pianist 🎹 with an unwavering love for Chopin 🎼.
+Checkout my [music](https://haowenweijohn.github.io/music/).
+
 
 ![in-vr](../images/in-vr.png){: .align-left width="200px"}
 With a strong foundation in computer science and electrical engineering, 
