@@ -46,6 +46,7 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 
 
 
+
 ## Overview
 PhysioLabXR is an open-source Python platform designed for real-time **multi-modal brain-computer interfaces (BCI)** and **extended reality (XR)** experiments. It integrates data from EEG, EMG, fNIRS, and eye trackers to process and visualize physiological data in real-time, making it a versatile tool for neuroscience and human-computer interaction (HCI) research. The platform has been adopted by research labs at Columbia University, Harvard Medical School, and other leading institutions.
 
