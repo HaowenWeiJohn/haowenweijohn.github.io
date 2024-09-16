@@ -24,22 +24,22 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="../images/publications/PhysioLabXR-fMRI-Demo.gif" alt="Real-time EEG Visualization" style="max-width: 100%; height: auto;">
-    <p>*EEG + fMRI + Eye-Tracking + Audio*</p>
+    <p><strong>EEG + fMRI + Eye-Tracking + Audio</strong></p>
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="../images/publications/PhysioLabXR-CameraObjectDetection-Demo.gif" alt="Sensor Fusion Demo" style="max-width: 100%; height: auto;">
-    <p>*Camera + Object Detecction*</p>
+    <p><strong>Camera + Object Detecction</strong></p>
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="../images/publications/PhysioLabXR-UnityObjectDetection-Demo.gif" alt="Customizable DSP Modules" style="max-width: 100%; height: auto;">
-    <p>*VR in Unity + Object Detection*</p>
+    <p><strong>VR in Unity + Object Detection</strong></p>
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="../images/publications/PhysioLabXR-Search-Demo.gif" alt="Fourth GIF Description" style="max-width: 100%; height: auto;">
-    <p>*EEG + Eye Tracking + VR in Unity*</p>
+    <p><strong>EEG + Eye Tracking + VR in Unity</strong></p>
   </div>
 
 </div>
