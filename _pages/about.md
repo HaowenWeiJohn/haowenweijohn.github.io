@@ -16,6 +16,7 @@ and a passionate pianist 🎹 with an unwavering love for Chopin 🎼.
 Checkout my **[publications](https://haowenweijohn.github.io/publications/)** and **[music](https://haowenweijohn.github.io/music/)**.
 
 
+
 <img src="../images/in-vr.png" alt="in-vr" style="width:200px; float:left; margin-right: 10px;" />
 With a strong foundation in computer science and electrical engineering, 
 I specialize in pioneering brain-computer interface (BCI) technology. 
@@ -23,6 +24,7 @@ My work focuses on integrating advanced physiological data to create real-time,
 accessible signal processing solutions through machine learning and deep learning techniques. 
 Driven by a desire to bridge gaps and create opportunities, I am dedicated to advancing Human-Computer Interaction and biomedical imaging to improve lives and make technology accessible to all.
 
+<div style="clear: both;"></div>
 
 <u>Research Interests:</u> 
 Brain-Computer Interfaces (BCI),
