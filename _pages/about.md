@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![performance](../images/performance.png){: .align-right width="300px"}
+<img src="../images/performance.png" alt="performance" style="width:300px; float:right; margin-left: 10px;" />
 👋 Welcome! I'm a dynamic researcher 🧠, 
 inventive game developer 🎮, 
 and a passionate pianist 🎹 with an unwavering love for Chopin 🎼.
@@ -16,7 +16,7 @@ and a passionate pianist 🎹 with an unwavering love for Chopin 🎼.
 Checkout my **[publications](https://haowenweijohn.github.io/publications/)** and **[music](https://haowenweijohn.github.io/music/)**.
 
 
-<img src="../images/in-vr.png" alt="in-vr" style="width:200px; align:left;" />
+<img src="../images/in-vr.png" alt="in-vr" style="width:200px; float:left; margin-right: 10px;" />
 With a strong foundation in computer science and electrical engineering, 
 I specialize in pioneering brain-computer interface (BCI) technology. 
 My work focuses on integrating advanced physiological data to create real-time, 
