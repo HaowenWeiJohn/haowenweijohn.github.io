@@ -18,7 +18,7 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 **Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
 
 
-### Use Cases   
+## Example Use Cases   
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
