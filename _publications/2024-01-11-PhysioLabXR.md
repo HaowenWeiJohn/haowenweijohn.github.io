@@ -17,7 +17,34 @@ videourl: 'https://www.youtube.com/watch?v=IJpYk-y0O2g'
 **Role:** Co-Founder, Lead Software Engineer, Co-First Author  
 **Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
 
-## PhysioLabXR: Real-Time Multi-Modal Brain-Computer Interface Platform
+
+### Use Cases   
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="../images/publications/PhysioLabXR-fMRI-Demo.gif" alt="Real-time EEG Visualization" style="max-width: 100%; height: auto;">
+    <p>*EEG + fMRI + Eye-Tracking + Audio*</p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="../images/publications/PhysioLabXR-CameraObjectDetection-Demo.gif" alt="Sensor Fusion Demo" style="max-width: 100%; height: auto;">
+    <p>*Camera + Object Detecction*</p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="../images/publications/PhysioLabXR-UnityObjectDetection-Demo.gif" alt="Customizable DSP Modules" style="max-width: 100%; height: auto;">
+    <p>*VR in Unity + Object Detection*</p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="../images/publications/PhysioLabXR-Search-Demo.gif" alt="Fourth GIF Description" style="max-width: 100%; height: auto;">
+    <p>*EEG + Eye Tracking + VR in Unity*</p>
+  </div>
+
+</div>
+
+
 
 ## Overview
 PhysioLabXR is an open-source Python platform designed for real-time **multi-modal brain-computer interfaces (BCI)** and **extended reality (XR)** experiments. It integrates data from EEG, EMG, fNIRS, and eye trackers to process and visualize physiological data in real-time, making it a versatile tool for neuroscience and human-computer interaction (HCI) research. The platform has been adopted by research labs at Columbia University, Harvard Medical School, and other leading institutions.
@@ -48,30 +75,6 @@ PhysioLabXR has been used in several research papers:
 - Koorathota, Sharath Chandra. "Multimodal deep learning systems for analysis of human behavior, preference, and state." PhD diss., Columbia University, 2023.
 - Lapborisuth, Pawan, Sharath Koorathota, and Paul Sajda. "Pupil-linked arousal modulates network-level EEG signatures of attention reorienting during immersive multitasking." Journal of Neural Engineering 20, no. 4 (2023): 046043.
 
-### Demos
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="../images/publications/PhysioLabXR-fMRI-Demo.gif" alt="Real-time EEG Visualization" style="max-width: 100%; height: auto;">
-    <p>*EEG + fMRI + Eye-Tracking + Audio*</p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="../images/publications/PhysioLabXR-CameraObjectDetection-Demo.gif" alt="Sensor Fusion Demo" style="max-width: 100%; height: auto;">
-    <p>*Camera + Object Detecction*</p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="../images/publications/PhysioLabXR-UnityObjectDetection-Demo.gif" alt="Customizable DSP Modules" style="max-width: 100%; height: auto;">
-    <p>*VR in Unity + Object Detection*</p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="../images/publications/PhysioLabXR-Search-Demo.gif" alt="Fourth GIF Description" style="max-width: 100%; height: auto;">
-    <p>*EEG + Eye Tracking + VR in Unity*</p>
-  </div>
-
-</div>
 
 ---
 
