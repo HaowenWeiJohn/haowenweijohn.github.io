@@ -1,5 +1,5 @@
 ---
-title: "Efficient Text-Entry in Mixed Reality: Tap, Gaze & Pinch, SwEYEpe (Under Review)"
+title: "Efficient Text-Entry in Mixed Reality: Tap, Gaze & Pinch, SwEYEpe (CHI 2025 Late-Breaking Work)"
 collection: publications
 authors: '**_Haowen Wei_**\*, Ziheng Li\*, Xichen He, Ben Yang, Steven Feiner'
 permalink: /publication/2023-12-04-VisionSwEYEpe
@@ -22,7 +22,9 @@ venue: 'Preparing for [CHI 2025 Late-Breaking Work](https://chi2025.acm.org)'
 
 
 **Overview:**  
-Sweyepe explores intuitive text-entry methods in mixed reality (MR), combining modalities such as tapping, gaze, pinching, and swiping. This multi-modal interaction aims to provide a natural and seamless text-entry experience in MR environments. The system filters gaze paths using a fixation detection algorithm and matches the user's gaze path with an ideal one. It further refines word candidates using a language model to enhance the accuracy of text input.
+Sweyepe reimagines text-entry in mixed reality (MR) environments by utilizing gaze paths instead of traditional finger swipes on a keyboard. The system combines various input modalities, including tapping, gaze, pinching, and swiping, to create an intuitive and seamless text-entry experience. Users can enter text by simply looking at letters in a specific sequence, mimicking the "swiping" motion commonly used on mobile keyboards, but using eye movements. 
+
+The system employs a fixation detection algorithm to filter the user's gaze path, ensuring that only intentional movements are considered. It then matches the user's gaze path with an ideal one using a language model to further refine and predict the most likely word candidates. This approach leverages natural eye movement patterns to allow efficient and hands-free text input in MR, significantly enhancing usability and interaction.
 
 **Key Features:**
 - **Multi-Modal Interaction:** Combines various input modalities to offer natural text-entry experiences in MR.
@@ -38,4 +40,4 @@ Sweyepe explores intuitive text-entry methods in mixed reality (MR), combining m
 Sweyepe aims to enhance user interaction in mixed reality by introducing more intuitive text-entry solutions. By combining various input modalities and refining user interactions through language modeling, the project seeks to create a more user-friendly and efficient MR environment.
 
 **Additional Notes:**  
-Refer to my Master's thesis for more detailed insights into this project.
+Detailed insights into this project can be found in my Master's thesis. The paper is currently being prepared for submission as a CHI2025 late-breaking work.

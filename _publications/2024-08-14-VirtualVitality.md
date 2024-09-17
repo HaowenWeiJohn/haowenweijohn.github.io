@@ -57,4 +57,4 @@ This project demonstrates how AI can support clinical decision-making, specifica
 
 
 **Additional Notes:**
-You could refer to my Master's thesis for more details on this project.
+Detailed insights into this project can be found in my Master's thesis. The paper is currently under review for CHI 2025.
