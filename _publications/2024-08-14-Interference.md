@@ -5,10 +5,7 @@ collection: publications
 authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, Steven Feiner, Kaveri Thakoor'
 excerpt: 'This project enhances glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images, interactively highlighting areas of interest for improved diagnosis. Validated with a user study involving 15 ophthalmologists, the tool demonstrates the potential of AI in supporting clinical decision-making and aiming for more accurate glaucoma diagnosis.'
 date: 2024-08-18
-venue: '[CHI 2025 (Submitted)]'
-paperurl: 'http://haowenweijohn.github.io/files/publications/2025-XX-XX-Glaucoma-Diagnosis.pdf'
-codeurl: '[GitHub repository link, if available]'
-videourl: '[YouTube video link, if available]'
+venue: '[CHI 2025 (Under Review)](https://chi2025.acm.org/)'
 ---
 
 **Duration:** Aug 2024 – Present  
@@ -20,15 +17,8 @@ videourl: '[YouTube video link, if available]'
 
 <div style="text-align: center;">
   <img src="../images/publications/VirtualVitality-SystemOverview.png" alt="IndexPen Demo" style="width: 70%; height: auto;">
-
-[//]: # (  <p><strong>System Overview</strong></p>)
 </div>
 
-[//]: # (<div style="text-align: center;">)
-
-[//]: # (  <img src="../images/publications/2024-08-15-VirtualVitality-Teaser.png" alt="IndexPen Demo" style="width: 90%; height: auto;">)
-
-[//]: # (</div>)
 
 **Overview:**  
 This project aims to enhance glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images. By interactively highlighting areas of interest, the platform facilitates a more nuanced diagnosis process, aiming to support clinical decision-making.
