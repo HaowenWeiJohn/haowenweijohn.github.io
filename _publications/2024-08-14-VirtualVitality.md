@@ -30,8 +30,7 @@ Submitted to CHI 2025.
 
 
 
-**Overview:**  
-
+**Overview:**
 This project aims to enhance glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images. By interactively highlighting areas of interest, the platform facilitates a more nuanced diagnosis process, aiming to support clinical decision-making.
 
 
