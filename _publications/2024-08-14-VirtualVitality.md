@@ -20,6 +20,12 @@ venue: '[CHI 2025 (Under Review)](https://chi2025.acm.org/)'
 </div>
 
 
+<div style="text-align: center;">
+  <img src="../images/publications/VirtualVitality-SystemOverview.png" alt="IndexPen Demo" style="width: 80%; height: auto;">
+  <p><strong>I was writing "Hello World"</strong></p>
+</div>
+
+
 **Overview:**  
 This project aims to enhance glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images. By interactively highlighting areas of interest, the platform facilitates a more nuanced diagnosis process, aiming to support clinical decision-making.
 
