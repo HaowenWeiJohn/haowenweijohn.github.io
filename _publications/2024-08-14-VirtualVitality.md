@@ -10,13 +10,13 @@ paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user
 ---
 
 <div style="text-align: center;">
-  <img src="../images/publications/VirtualVitality-SystemOverview.png" alt="System Overview" style="width: 70%; height: auto;">
+  <img src="../images/publications/VirtualVitality-SystemOverview.png" alt="System Overview" style="width: 80%; height: auto;">
 </div>
 
 
 **Duration:** Aug 2024 – Present  
 **Role:** Project Lead, Lead Software Engineer, Experimenter  
-**Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)
+**Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)     
 **Status:** *Submitted to [CHI 2025](https://chi2025.acm.org), Under Review*
 
 
@@ -24,7 +24,7 @@ paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user
 Submitted to CHI 2025.
 
 <div style="text-align: center;">
-  <img src="../images/publications/VirtualVitality-Demo.gif" alt="Interactive Visual Cue" style="width: 70%; height: auto;">
+  <img src="../images/publications/VirtualVitality-Demo.gif" alt="Interactive Visual Cue" style="width: 60%; height: auto;">
   <p><strong>Interactive Visual Cue</strong></p>
 </div>
 
