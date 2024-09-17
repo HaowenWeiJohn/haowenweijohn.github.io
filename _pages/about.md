@@ -71,6 +71,38 @@ Mobile and Ubiquitous Computing.
 [//]: # (- GPA: 3.91)
 
 
+## Featured Projects
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; align-items: flex-start;">
+
+  <!-- PhysioLabXR Project -->
+  <div style="flex: 1 1 300px; max-width: 400px; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://haowenweijohn.github.io/publication/2024-01-11-PhysioLabXR" style="text-decoration: none; color: inherit;">
+      <!-- Image container with fixed height -->
+      <div style="height: 200px; display: flex; align-items: center; justify-content: center;">
+        <img src="../images/publications/PhysioLabXR-fMRI-Demo.gif" alt="PhysioLabXR" style="max-width: 100%; height: auto; max-height: 100%;">
+      </div>
+      <p style="text-decoration: underline; color: #007bff; text-align: center;"><strong>PhysioLabXR: Real-Time Multi-Modal Brain-Computer Interface</strong></p>
+    </a>
+  </div>
+
+  <!-- IndexPen Project -->
+  <div style="flex: 1 1 300px; max-width: 400px; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://haowenweijohn.github.io/publication/2022-07-07-IndexPen" style="text-decoration: none; color: inherit;">
+      <!-- Image container with fixed height -->
+      <div style="height: 200px; display: flex; align-items: center; justify-content: center;">
+        <img src="../images/publications/IndexPen-Demo.gif" alt="IndexPen" style="max-width: 100%; height: auto; max-height: 100%;">
+      </div>
+      <p style="text-decoration: underline; color: #007bff; text-align: center;"><strong>IndexPen: Two-Finger Text Input with Millimeter-Wave Radar</strong></p>
+    </a>
+  </div>
+
+
+
+</div>
+
+
 ## Recent News
 
 - **September 6th**: Began my new position as a **Research Scientist** at the **Martinos Center for Biomedical Imaging**, Harvard Medical School.🏢
