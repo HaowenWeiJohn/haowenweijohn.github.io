@@ -137,6 +137,12 @@ for more details about each paper.
 - Cheng, Shiyu, Kaveh Pahlavan, **_Haowen Wei_**, Zhuoran Su, Seyed Reza Zekavat, and Ali Abedi. "A Study of Interference Analysis Between mmWave Radars and IEEE 802.11 AD at 60 GHz Bands." *International Journal of Wireless Information Networks* 29, no. 3 (2022): 222-231. [Paper](https://link.springer.com/article/10.1007/s10776-022-00564-9)
 
 
+### Under Review
+
+- Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Steven Feiner, Kaveri Thakoor. "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer." (Under Review at CHI 2025)  
+
+- **_Haowen Wei_**\*, Ziheng Li\*, Xichen He, Ben Yang, Steven Feiner. "Efficient Text-Entry in Mixed Reality: Tap, Gaze & Pinch, SwEYEpe." (CHI 2025 Late-Breaking Work)  
+
 ## Conference Presentations
 
 - **2023 Brain & Human Body Modeling (BHBM)** - Athinoula A. Martinos Center for Biomedical Imaging (Hybrid Local Conference): "PhysioLabXR: A software platform in Python for multi-modal brain-computer interface and real-time experiment pipelines." **Haowen Wei**, Ziheng Li, Steven Feiner, Paul Sajda [Link](https://tmslab.martinos.org/conferences/brain-and-human-body-modeling-conference-2023-online-format-with-limited-in-person-participation/)
