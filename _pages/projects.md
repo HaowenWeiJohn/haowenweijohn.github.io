@@ -8,5 +8,4 @@ author_profile: true
 
 
 
-## Featured Projects
 
