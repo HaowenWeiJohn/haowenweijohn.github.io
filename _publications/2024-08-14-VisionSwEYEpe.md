@@ -1,7 +1,7 @@
 ---
 title: "Efficient Text-Entry in Mixed Reality: Tap, Gaze & Pinch, SwEYEpe (Under Review)"
 collection: publications
-authors: '**_Haowen Wei_**\*, Ziheng Li\*, Ben Yang, Xichen He, Steven Feiner'
+authors: '**_Haowen Wei_**\*, Ziheng Li\*, Xichen He, Ben Yang, Steven Feiner'
 permalink: /publication/2023-12-04-VisionSwEYEpe
 excerpt: "This project explores intuitive text-entry methods in mixed reality (MR), combining modalities like tapping, gaze, pinching, and swiping. It offers natural text-entry experiences through multi-modal interaction and user-centric design, aiming to enhance usability and efficiency in MR environments. The system's effectiveness was assessed through user studies, demonstrating the potential of more intuitive text-entry solutions in MR."
 date: 2023-12-04
