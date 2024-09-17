@@ -1,14 +1,13 @@
 ---
-title: "Master's Thesis: From Brain–Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies"
+title: "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer (Under Review)"
 collection: publications
-authors: '**Haowen Wei**, Steven K. Feiner, Paul Sajda, Kaveri Thakoor'
+authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, Steven Feiner, Kaveri Thakoor'
 permalink: /publication/2024-08-11-VirtualVitality
-excerpt: "My master’s thesis advances brain-computer interfaces (BCI), human-computer interaction (HCI), and extended reality (XR) through three key projects. First, PhysioLabXR, an open-source Python platform, enables real-time, multi-modal BCI and XR experiments, streamlining data processing, visualization, and machine learning. Second, our work on Interactively Assisting Glaucoma Diagnosis employs deep learning to support clinical decision-making, aiming to introduce an AI-based diagnostic tool to CHI 2025. Lastly, the In Search for an Intuitive and Efficient Text-Entry in Mixed Reality project explores innovative text-entry methods in mixed reality for enhanced user interaction. Together, these projects push the boundaries of HCI and BCI research."
-date: 2024-08-11
+excerpt: "This project enhances glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images, interactively highlighting areas of interest for improved diagnosis. Validated with a user study involving 15 ophthalmologists, the tool demonstrates the potential of AI in supporting clinical decision-making and aiming for more accurate glaucoma diagnosis."
+date: 2024-08-14
 venue: 'CHI2025 (Under Review)'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=phrai3MAAAAJ&citation_for_view=phrai3MAAAAJ:Y0pCki6q_DkC'
 ---
-
 
 
 **Duration:** Aug 2024 – Present  
