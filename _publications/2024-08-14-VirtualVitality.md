@@ -15,7 +15,7 @@ venue: 'Submitted to [CHI 2025](https://chi2025.acm.org), Under Review'
 ---
 
 **Duration:** Aug 2024 – Present  
-**Role:** Project Lead, Lead Software Engineer, Experimenter  
+**Role:** Project Lead, Lead Software Engineer, Experimenter, Co-First Author
 **Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)     
 **Status:** *Submitted to [CHI 2025](https://chi2025.acm.org), Under Review*
 
@@ -46,7 +46,6 @@ This project aims to enhance glaucoma diagnosis using an expert knowledge-distil
 
 **My Contributions:**
 - **Leadership:** Spearheaded the development of both the front-end and back-end systems, ensuring seamless integration of AI and user interfaces.
-- **System Development:** Implemented the Vision Transformer model, trained using domain-specific data to achieve high diagnostic accuracy.
 - **User Study:** Designed and conducted the user study with 15 ophthalmologists, gathering feedback to improve the system's usability and diagnostic performance.
 - **Experimentation:** Fine-tuned the interaction design to support clinicians effectively, focusing on enhancing decision-making processes in glaucoma diagnosis.
 
