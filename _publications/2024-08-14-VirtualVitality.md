@@ -9,6 +9,7 @@ venue: 'Submitted to CHI 2025'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=phrai3MAAAAJ&citation_for_view=phrai3MAAAAJ:Y0pCki6q_DkC'
 ---
 
+![TeaserImage](../images/publications/VirtualVitality-Demo.gif)
 
 **Duration:** Aug 2024 – Present  
 
