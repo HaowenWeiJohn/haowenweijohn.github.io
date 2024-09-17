@@ -48,5 +48,4 @@ This project demonstrates how AI can support clinical decision-making, specifica
 
 
 **Additional Notes:**  
-- **Supplementary Materials:** [Link to attached paper, if available]
-- **Publication (Under Review):** [If any related publications are under review, mention here]
+You could refer to my Master's thesis for more details on this project.
