@@ -6,13 +6,13 @@ permalink: /publication/2024-08-11-VirtualVitality
 excerpt: "This project enhances glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images, interactively highlighting areas of interest for improved diagnosis. Validated with a user study involving 15 ophthalmologists, the tool demonstrates the potential of AI in supporting clinical decision-making and aiming for more accurate glaucoma diagnosis."
 date: 2024-08-14
 venue: 'Submitted to [CHI 2025](https://chi2025.acm.org), Under Review'
-paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=phrai3MAAAAJ&citation_for_view=phrai3MAAAAJ:Y0pCki6q_DkC'
 ---
 
 <div style="text-align: center;">
-  <img src="../images/publications/VirtualVitality-SystemOverview.png" alt="System Overview" style="width: 80%; height: auto;">
+  <img src="../images/publications/VirtualVitality-SystemOverview.png" alt="System Overview" style="width: 95%; height: auto;">
 </div>
 
+---
 
 **Duration:** Aug 2024 – Present  
 **Role:** Project Lead, Lead Software Engineer, Experimenter  
