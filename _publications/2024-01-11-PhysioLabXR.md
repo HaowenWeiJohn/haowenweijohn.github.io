@@ -4,7 +4,7 @@ collection: publications
 authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Ziwen Xie, Yunxiang Peng, June Pyo Suh, Steven Feiner, Paul Sajda'
 permalink: /publication/2024-01-11-PhysioLabXR
 excerpt: 'PhysioLabXR is a Python-based open-source software platform for neuroscience and human-computer interaction (HCI) experiments, enabling real-time and multi-modal physiological data processing. The platform supports a variety of sensors including EEG, fNIRS, and eye trackers, while offering tools for multi-stream visualization, real-time digital signal processing (DSP), and experiment recording. With native support for popular data transfer protocols such as Lab Streaming Layer (LSL) and ZeroMQ (ZMQ), PhysioLabXR facilitates seamless integration and control over experimental pipelines. This tool serves as a foundation for future BCI and HCI experiments, significantly benefiting the research community.'
-date: 2024-01-11
+date: 2024-09-11
 venue: '[Journal of Open Source Software, September 2023.](https://joss.theoj.org/papers/10.21105/joss.05854)'
 paperurl: 'http://haowenweijohn.github.io/files/publications/2024-01-11-PhysioLabXR.pdf'
 codeurl: 'https://github.com/PhysioLabXR/PhysioLabXR-Community'
