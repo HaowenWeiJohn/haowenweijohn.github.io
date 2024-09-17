@@ -19,7 +19,7 @@ paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user
 **Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)
 **Status:** *Submitted to [CHI 2025](https://chi2025.acm.org), Under Review*
 
-.org/), Under Review
+
 
 Submitted to CHI 2025.
 
