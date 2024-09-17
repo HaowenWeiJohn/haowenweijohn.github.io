@@ -16,16 +16,17 @@ paperurl: 'http://haowenweijohn.github.io/files/publications/2022-05-16-Interfer
 **Advisor:** [Dr. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan) & [Dr. Seyed Zekavat](https://www.wpi.edu/people/faculty/rezaz)
 
 ## Overview
+This study presents an empirical analysis of mutual interference between **IEEE 802.11ad communication systems** and **millimeter-wave radar** operating in the **60 GHz band**. It investigates the impact of interference on radar performance, including coverage and precision, and models the effect on packet loss rates in wireless communications. The findings provide valuable insights into the practical implications of interference between radar and communication systems, guiding future research and system design.
 
-This study presents an empirical analysis of mutual interference between **IEEE 802.11ad communication systems** and **millimeter-wave radar** operating in the **60 GHz band**. The research investigates the impact of interference on radar performance, including coverage and precision, and models the effect on packet loss rates in wireless communications. The study aims to provide insights into the practical implications of interference between radar and communication systems, offering valuable information for future research and system design.
+## My Contributions
+- **Data Collection Pipeline:** Designed and implemented the **mmWave radar** data collection pipeline, ensuring reliable signal capture and processing for the study.
+- **Knowledge Sharing:** Leveraged expertise from the **IndexPen** project to aid in understanding radar interference and its practical impact on human-computer interaction (HCI) and wireless communication systems.
+- **Software Development:** Assisted in configuring the testbed and developing software for empirical analysis, facilitating the validation of theoretical models with real-world data.
 
-As part of this project, I contributed as the **Lead Software Engineer**, helping design the data collection pipeline for the **millimeter-wave radar**. While working on **IndexPen**, I leveraged my expertise in **mmWave radar** to assist in analyzing the interference between **IEEE 802.11ad communication systems** and **60 GHz mmWave radar**. The project aimed to investigate mutual interference and its impact on radar performance, including coverage and precision, as well as the packet loss rate for communication systems.
-
-## Key Contributions
-- **Data Collection Pipeline**: Designed and implemented the **mmWave radar** data collection pipeline, ensuring reliable capture and processing of radar signals for the study.
-- **Knowledge Sharing**: Shared expertise from the **IndexPen** project to facilitate the understanding of radar interference and its practical implications for HCI and wireless communication.
-- **Software Development**: Assisted in configuring the testbed and software for empirical analysis, which helped validate theoretical models with real-world data.
+## Contributions of the Paper
+- **Interference Analysis:** Conducted a comprehensive empirical analysis of the mutual interference between **IEEE 802.11ad** systems and **60 GHz mmWave radar**, focusing on how overlapping frequencies affect radar coverage, precision, and communication packet loss rates.
+- **Practical Insights:** Provided practical insights into the performance impacts of interference in real-world scenarios, offering guidelines for system design and future research in wireless communication and radar systems.
+- **Model Validation:** Validated theoretical interference models with real-world data, contributing to a better understanding of the challenges and mitigation strategies for mmWave radar and communication system coexistence.
 
 ## Novelty
-- Provided empirical insights into how **mmWave radar** and **IEEE 802.11ad** devices interfere with each other when operating in overlapping frequencies, demonstrating real-world performance impacts.
-
+- Delivered empirical insights into the interference between **mmWave radar** and **IEEE 802.11ad** communication systems when operating in overlapping frequency bands, highlighting the real-world performance impacts and informing future technology development.
