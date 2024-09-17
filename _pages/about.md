@@ -139,7 +139,7 @@ for more details about each paper.
 
 ### Under Review
 
-- Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Steven Feiner, Kaveri Thakoor. "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer." (Under Review at CHI 2025)
+- Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Leyi Cui, Steven Feiner, Kaveri Thakoor. "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer." (Under Review at CHI 2025)
 - **_Haowen Wei_**\*, Ziheng Li\*, Xichen He, Ben Yang, Steven Feiner. "Efficient Text-Entry in Mixed Reality: Tap, Gaze & Pinch, SwEYEpe." (CHI 2025 Late-Breaking Work)  
 
 ## Conference Presentations

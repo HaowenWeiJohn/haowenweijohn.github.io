@@ -1,7 +1,7 @@
 ---
 title: "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer (Under Review)"
 collection: publications
-authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Steven Feiner, Kaveri Thakoor'
+authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Leyi Cui, Steven Feiner, Kaveri Thakoor'
 permalink: /publication/2024-08-11-VirtualVitality
 excerpt: "This project enhances glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images, interactively highlighting areas of interest for improved diagnosis. Validated with a user study involving 15 ophthalmologists, the tool demonstrates the potential of AI in supporting clinical decision-making and aiming for more accurate glaucoma diagnosis."
 date: 2024-08-14
