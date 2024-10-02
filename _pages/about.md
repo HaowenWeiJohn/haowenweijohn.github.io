@@ -49,55 +49,6 @@ Computer Vision.
 
 <u>Other Interests:</u> Piano, Soccer, Chess
 
-[//]: # (## Education)
-
-[//]: # ()
-[//]: # (**Columbia University**  )
-
-[//]: # (*Sep 2022 - May 2024*)
-
-[//]: # (- Master of Computer Science &#40;Thesis Track&#41;)
-
-[//]: # (- Thesis Topic: From Brain–Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies)
-
-[//]: # (- Research in Brain-Computer Interfaces and Neuroimaging)
-
-[//]: # (- GPA: 3.81)
-
-[//]: # ()
-[//]: # (**Worcester Polytechnic Institute**  )
-
-[//]: # (*Aug 2018 - May 2022*)
-
-[//]: # (- Bachelor Of Computer Science & Electrical and Computer Engineering &#40;Double Major&#41;)
-
-[//]: # (- Mechanical Engineering &#40;Minor&#41;)
-
-[//]: # (- Human-Computer Interaction)
-
-[//]: # (- GPA: 3.91)
-
-[//]: # (## Education)
-
-[//]: # ()
-[//]: # (### Columbia University  *&#40;09/2022 - 05/2024&#41;*  )
-
-[//]: # (**Master of Science in Computer Science &#40;Thesis Track&#41;** | **GPA:** 3.81/4.00  )
-
-[//]: # (- **Advisors:** [Prof. Steven K. Feiner]&#40;https://www.engineering.columbia.edu/faculty/steven-feiner&#41; & [Prof. Paul Sajda]&#40;https://www.bme.columbia.edu/faculty/paul-sajda&#41;  )
-
-[//]: # (- **Thesis:** *From Brain-Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies* [*Paper*]&#40;https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&#41;)
-
-[//]: # ()
-[//]: # (### Worcester Polytechnic Institute  *&#40;08/2018 - 05/2022&#41;*  )
-
-[//]: # (**Bachelor of Science in Computer Science & Electrical and Computer Engineering &#40;Double Major&#41;** | **GPA:** 3.91/4.00)
-
-[//]: # (- **Advisors:** [Prof. Erin Solovey]&#40;https://www.wpi.edu/people/faculty/esolovey&#41; & [Prof. Kaveh Pahlavan]&#40;https://www.wpi.edu/people/faculty/pahlavan&#41;  )
-
-[//]: # (- **Honors:** Dean’s List &#40;2018-2022&#41;  )
-
-[//]: # (- **Achievement:** 2022 Second Best Undergraduate Major Qualification Project &#40;MQP&#41; [*IndexPen*]&#40;https://haowenweijohn.github.io/publication/2022-07-07-IndexPen&#41;)
 
 
 ## Featured Projects
