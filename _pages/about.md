@@ -28,6 +28,7 @@ Driven by a desire to bridge gaps and create opportunities, I am dedicated to ad
 <div style="clear: both;"></div>
 
 <u>Research Interests:</u> 
+Mobile and Ubiquitous Computing,
 Brain-Computer Interfaces (BCI),
 Human-Computer Interaction (HCI),
 Virtual Reality (VR),
@@ -36,9 +37,9 @@ Eye-Tracking,
 Neuroimaging (fMRI, EEG),
 Brain Stimulation (TMS, TES),
 Signal Processing,
+Embedded Systems,
 Deep Learning, Machine Learning,
-Computer Vision,
-Mobile and Ubiquitous Computing.
+Computer Vision.
 
 <u>Other Interests:</u> Piano, Soccer, Chess
 
