@@ -19,11 +19,17 @@ Checkout my **[projects](https://haowenweijohn.github.io/projects/)**🔬,
 
 
 <img src="../images/in-vr.png" alt="in-vr" style="width:200px; float:left; margin-right: 10px;" />
-With a strong foundation in computer science and electrical engineering, 
-I specialize in pioneering brain-computer interface (BCI) technology. 
-My work focuses on integrating advanced physiological data to create real-time, 
-accessible signal processing solutions through machine learning and deep learning techniques. 
-Driven by a desire to bridge gaps and create opportunities, I am dedicated to advancing Human-Computer Interaction and biomedical imaging to improve lives and make technology accessible to all.
+
+I hold a double major in Computer Science and Electrical & 
+Computer Engineering from Worcester Polytechnic Institute, 
+where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/).
+I completed my Master's degree in Computer Science at Columbia University, 
+focusing on Brain-Computer Interfaces (BCI) and Human-Computer Interaction (HCI), 
+under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) 
+and [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda). 
+
+With a strong foundation in both computer science and electrical engineering, I specialize in pioneering BCI technology. My work integrates advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a passion to bridge gaps and create opportunities, I am dedicated to advancing HCI and biomedical imaging, making cutting-edge technology accessible and impactful for all.
+
 
 <div style="clear: both;"></div>
 
