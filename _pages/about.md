@@ -14,7 +14,7 @@ inventive game developer 🎮,
 and a passionate pianist 🎹 with an unwavering love for Chopin 🎼.
 
 Checkout my **[projects](https://haowenweijohn.github.io/projects/)**🔬,
-**[publications](https://haowenweijohn.github.io/publications/)**📝, and **[music](https://haowenweijohn.github.io/music/)** 🎵.
+**[publications](https://haowenweijohn.github.io/publications/)**📝, and **[music](https://haowenweijohn.github.io/music/)**🎵.
 
 
 
@@ -70,6 +70,28 @@ Mobile and Ubiquitous Computing.
 
 [//]: # (- GPA: 3.91)
 
+[//]: # (## Education)
+
+[//]: # ()
+[//]: # (### Columbia University  *&#40;09/2022 - 05/2024&#41;*  )
+
+[//]: # (**Master of Science in Computer Science &#40;Thesis Track&#41;** | **GPA:** 3.81/4.00  )
+
+[//]: # (- **Advisors:** [Prof. Steven K. Feiner]&#40;https://www.engineering.columbia.edu/faculty/steven-feiner&#41; & [Prof. Paul Sajda]&#40;https://www.bme.columbia.edu/faculty/paul-sajda&#41;  )
+
+[//]: # (- **Thesis:** *From Brain-Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies* [*Paper*]&#40;https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&#41;)
+
+[//]: # ()
+[//]: # (### Worcester Polytechnic Institute  *&#40;08/2018 - 05/2022&#41;*  )
+
+[//]: # (**Bachelor of Science in Computer Science & Electrical and Computer Engineering &#40;Double Major&#41;** | **GPA:** 3.91/4.00)
+
+[//]: # (- **Advisors:** [Prof. Erin Solovey]&#40;https://www.wpi.edu/people/faculty/esolovey&#41; & [Prof. Kaveh Pahlavan]&#40;https://www.wpi.edu/people/faculty/pahlavan&#41;  )
+
+[//]: # (- **Honors:** Dean’s List &#40;2018-2022&#41;  )
+
+[//]: # (- **Achievement:** 2022 Second Best Undergraduate Major Qualification Project &#40;MQP&#41; [*IndexPen*]&#40;https://haowenweijohn.github.io/publication/2022-07-07-IndexPen&#41;)
+
 
 ## Featured Projects
 
@@ -83,7 +105,7 @@ Mobile and Ubiquitous Computing.
       <div style="height: 200px; display: flex; align-items: center; justify-content: center;">
         <img src="../images/publications/PhysioLabXR-fMRI-Demo.gif" alt="PhysioLabXR" style="max-width: 100%; height: auto; max-height: 100%;">
       </div>
-      <p style="text-decoration: underline; color: #007bff; text-align: center;"><strong>PhysioLabXR: Real-Time Multi-Modal Brain-Computer Interface</strong></p>
+      <p style="text-decoration: underline; color: #007bff; text-align: center;"><strong>PhysioLabXR: Real-Time Multi-Modal Brain-Computer Interface (JOSS 2023)</strong></p>
     </a>
   </div>
 
@@ -94,14 +116,13 @@ Mobile and Ubiquitous Computing.
       <div style="height: 200px; display: flex; align-items: center; justify-content: center;">
         <img src="../images/publications/IndexPen-Demo.gif" alt="IndexPen" style="max-width: 100%; height: auto; max-height: 100%;">
       </div>
-      <p style="text-decoration: underline; color: #007bff; text-align: center;"><strong>IndexPen: Two-Finger Text Input with Millimeter-Wave Radar</strong></p>
+      <p style="text-decoration: underline; color: #007bff; text-align: center;"><strong>IndexPen: Two-Finger Text Input with Millimeter-Wave Radar (IMWUT 2022)</strong></p>
     </a>
   </div>
 
 
 
 </div>
-
 
 ## Recent News
 
