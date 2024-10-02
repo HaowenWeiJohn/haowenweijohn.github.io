@@ -28,7 +28,21 @@ focusing on Brain-Computer Interfaces (BCI) and Human-Computer Interaction (HCI)
 under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) 
 and [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda). 
 
-With a strong foundation in both computer science and electrical engineering, I specialize in pioneering BCI technology. My work integrates advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a passion to bridge gaps and create opportunities, I am dedicated to advancing HCI and biomedical imaging, making cutting-edge technology accessible and impactful for all.
+[//]: # (With a strong foundation in both computer science and electrical engineering, I specialize in pioneering BCI technology. My work integrates advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a passion to bridge gaps and create opportunities, I am dedicated to advancing HCI and biomedical imaging, making cutting-edge technology accessible and impactful for all.)
+
+I specialize in developing daily used brain-computer interface (BCI) technology 
+integrated with virtual and augmented reality (VR/AR), 
+using advanced deep learning and signal processing methods to make 
+innovative technology accessible and impactful for all.
+
+
+
+
+
+
+
+
+
 
 
 <div style="clear: both;"></div>
