@@ -52,7 +52,7 @@ I hope you enjoy my music—check out my music below! 🎧
 ---
 
 
-Canon in D Major by Johann Pachelbel
+**Canon in D Major by Johann Pachelbel**
 
 <iframe width="450" height="200" src="https://www.youtube.com/embed/6SSijmVIiQo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
