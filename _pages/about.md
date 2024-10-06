@@ -25,8 +25,7 @@ Computer Engineering from Worcester Polytechnic Institute,
 where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/).
 I completed my Master's degree in Computer Science at Columbia University, 
 focusing on Brain-Computer Interfaces (BCI) and Human-Computer Interaction (HCI), 
-under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) 
-and [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda). 
+under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd).
 
 [//]: # (With a strong foundation in both computer science and electrical engineering, I specialize in pioneering BCI technology. My work integrates advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a passion to bridge gaps and create opportunities, I am dedicated to advancing HCI and biomedical imaging, making cutting-edge technology accessible and impactful for all.)
 
