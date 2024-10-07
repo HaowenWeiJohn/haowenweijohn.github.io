@@ -29,10 +29,15 @@ under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.
 
 [//]: # (With a strong foundation in both computer science and electrical engineering, I specialize in pioneering BCI technology. My work integrates advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a passion to bridge gaps and create opportunities, I am dedicated to advancing HCI and biomedical imaging, making cutting-edge technology accessible and impactful for all.)
 
-I specialize in developing daily used brain-computer interface (BCI) technology 
-integrated with virtual and augmented reality (VR/AR), 
-using advanced deep learning and signal processing methods to make 
-innovative technology accessible and impactful for all.
+[//]: # (I specialize in developing daily used brain-computer interface &#40;BCI&#41; technology )
+
+[//]: # (integrated with virtual and augmented reality &#40;VR/AR&#41;, )
+
+[//]: # (using advanced deep learning and signal processing methods to make )
+
+[//]: # (innovative technology accessible and impactful for all.)
+
+I specialize in developing brain-computer interface (BCI) technology integrated with VR/AR, using deep learning and signal processing to create accessible innovations. My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, combining technology with a commitment to enhancing well-being.
 
 
 
