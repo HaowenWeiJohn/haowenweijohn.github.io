@@ -62,6 +62,8 @@ Neuroimaging (fMRI, EEG),
 Brain Stimulation (TMS, tDCS),
 Signal Processing,
 Embedded Systems,
+mmWave Radar,
+Internet of Things (IoT),
 Deep Learning, Machine Learning,
 Computer Vision.
 
