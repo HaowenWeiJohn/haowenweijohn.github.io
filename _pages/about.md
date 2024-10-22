@@ -102,18 +102,7 @@ Computer Vision.
 
 </div>
 
-## Recent News
 
-- **September 6th**: Began my new position as a **Research Scientist** at the **Martinos Center for Biomedical Imaging**, Harvard Medical School.🏢
-- **September 5th**: Submitted a paper as a part of my Master's thesis to **CHI 2025**.📝
-- **May 13th**: Graduated from Columbia University with a Master of Science in Computer Science (Thesis Track).🎓
-- **May 1st**: Successfully defended my Master’s thesis,
-*From Brain-Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies*
-([Paper](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&))📝,
-under the supervision of 
-[Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner),
-[Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda),
-[Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd), at Columbia University.🥳
 
 
 
@@ -149,3 +138,15 @@ for more details about each paper.
 
 
 
+## Recent News
+
+- **September 6th**: Began my new position as a **Research Scientist** at the **Martinos Center for Biomedical Imaging**, Harvard Medical School.🏢
+- **September 5th**: Submitted a paper as a part of my Master's thesis to **CHI 2025**.📝
+- **May 13th**: Graduated from Columbia University with a Master of Science in Computer Science (Thesis Track).🎓
+- **May 1st**: Successfully defended my Master’s thesis,
+*From Brain-Computer Interfaces to AI-Enhanced Diagnostics: Developing Cutting-Edge Tools for Medical and Interactive Technologies*
+([Paper](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&))📝,
+under the supervision of 
+[Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner),
+[Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda),
+[Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd), at Columbia University.🥳
