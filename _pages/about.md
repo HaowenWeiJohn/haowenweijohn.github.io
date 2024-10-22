@@ -22,7 +22,7 @@ Checkout my **[projects](https://haowenweijohn.github.io/projects/)**🔬,
 
 I hold a double major in Computer Science and Electrical & 
 Computer Engineering from Worcester Polytechnic Institute, 
-where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/).
+where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan).
 I completed my Master's degree in Computer Science at Columbia University, 
 focusing on Brain-Computer Interfaces (BCI) and Clinical AI, 
 under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd).
