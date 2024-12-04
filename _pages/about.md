@@ -37,7 +37,7 @@ under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.
 
 [//]: # (innovative technology accessible and impactful for all.)
 
-I specialize in developing brain-computer interface (BCI) technology integrated with VR/AR, using deep learning and signal processing to create accessible innovations. My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, combining technology with a commitment to enhancing well-being.
+I specialize in developing brain-computer interface (BCI) technology integrated with VR/AR, using deep learning and signal processing to create accessible innovations. My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, combining technology with a commitment to enhancing well-being. Currently, I am a Research Scientist at the Martinos Center for Biomedical Imaging, Harvard Medical School, where I am working on closed-loop neurostimulation.
 
 
 
