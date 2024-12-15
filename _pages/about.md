@@ -104,13 +104,6 @@ Computer Vision.
 
 
 
-
-
-
-
-
-
-
 ## Publications
 
 Please refer to [Publications Page](https://haowenweijohn.github.io/publications/)
@@ -141,7 +134,7 @@ for more details about each paper.
 
 ## Recent News
 
-- **September 6th**: Began my new position as a **Research Scientist** at the **Martinos Center for Biomedical Imaging**, Harvard Medical School.🏢
+- **September 6th**: Began my new position as a **Research Assistant** at the **Martinos Center for Biomedical Imaging**, Harvard Medical School.🏢
 - **September 5th**: Submitted a paper as a part of my Master's thesis to **CHI 2025**.📝
 - **May 13th**: Graduated from Columbia University with a Master of Science in Computer Science (Thesis Track).🎓
 - **May 1st**: Successfully defended my Master’s thesis,
