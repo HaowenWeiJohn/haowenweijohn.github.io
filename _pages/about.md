@@ -52,20 +52,14 @@ I specialize in developing brain-computer interface (BCI) technology integrated 
 <div style="clear: both;"></div>
 
 <u>Research Interests:</u> 
-Mobile and Ubiquitous Computing,
-Brain-Computer Interfaces (BCI),
-Human-Computer Interaction (HCI),
+Computer Vision,
+Wireless Sensing,
 Virtual Reality (VR),
 Augmented Reality (AR),
-Eye-Tracking,
-Neuroimaging (fMRI, EEG),
+Neuroimaging (EEG, fNIRS, fMRI),
 Brain Stimulation (TMS, tDCS),
 Signal Processing,
-Embedded Systems,
-mmWave Radar,
-Internet of Things (IoT),
 Deep Learning, Machine Learning,
-Computer Vision.
 
 <u>Other Interests:</u> Piano, Soccer, Chess
 
