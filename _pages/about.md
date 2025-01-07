@@ -20,12 +20,14 @@ Checkout my **[projects](https://haowenweijohn.github.io/projects/)**🔬,
 
 <img src="../images/in-vr.png" alt="in-vr" style="width:200px; float:left; margin-right: 10px;" />
 
-I hold a double major in Computer Science and Electrical & 
-Computer Engineering from Worcester Polytechnic Institute, 
-where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan).
-I completed my Master's degree in Computer Science at Columbia University, 
-focusing on Brain-Computer Interfaces (BCI) and Clinical AI, 
-under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd).
+I completed a double major in Computer Science and Electrical & 
+Computer Engineering at Worcester Polytechnic Institute, 
+where I was supervised by
+[Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) 
+and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan).
+I earned my Master’s degree in Computer Science at Columbia University under the guidance of
+[Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd).
+My research focuses on multi-modal sensor fusion and Clinical AI.
 
 [//]: # (With a strong foundation in both computer science and electrical engineering, I specialize in pioneering BCI technology. My work integrates advanced physiological data to create real-time, accessible signal processing solutions through machine learning and deep learning techniques. Driven by a passion to bridge gaps and create opportunities, I am dedicated to advancing HCI and biomedical imaging, making cutting-edge technology accessible and impactful for all.)
 
@@ -37,7 +39,14 @@ under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.
 
 [//]: # (innovative technology accessible and impactful for all.)
 
-I specialize in developing brain-computer interface (BCI) technology integrated with VR/AR, using deep learning and signal processing to create accessible innovations. My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, combining technology with a commitment to enhancing well-being. Currently, I am a Research Scientist at the Martinos Center for Biomedical Imaging, Harvard Medical School, where I am working on closed-loop neurostimulation.
+I specialized in developing multimodal sensor 
+fusion systems for virtual and augmented reality (VR/AR), 
+integrating physiological data to study decision-making and 
+navigation in real-world scenarios.
+My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, 
+combining technology with a commitment to 
+enhancing well-being. 
+Currently, I am a Research Scientist at the Martinos Center for Biomedical Imaging, Harvard Medical School, where I am working on closed-loop neurostimulation.
 
 
 
