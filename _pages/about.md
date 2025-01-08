@@ -46,16 +46,7 @@ navigation in real-world scenarios.
 My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, 
 combining technology with a commitment to 
 enhancing well-being. 
-Currently, I am a Research Scientist at the Martinos Center for Biomedical Imaging, Harvard Medical School, where I am working on closed-loop neurostimulation.
-
-
-
-
-
-
-
-
-
+Currently, I am a Research Assistant at the Martinos Center for Biomedical Imaging, Harvard Medical School, where I am working on closed-loop neuro-stimulation.
 
 
 <div style="clear: both;"></div>
