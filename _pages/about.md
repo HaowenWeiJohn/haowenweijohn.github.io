@@ -21,7 +21,7 @@ Checkout my **[projects](https://haowenweijohn.github.io/projects/)**🔬,
 <img src="../images/in-vr.png" alt="in-vr" style="width:200px; float:left; margin-right: 10px;" />
 
 I completed a double major in Computer Science and Electrical & 
-Computer Engineering at Worcester Polytechnic Institute, 
+Computer Engineering (Mechanical Engineering minor) at Worcester Polytechnic Institute, 
 where I was supervised by
 [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) 
 and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan).
