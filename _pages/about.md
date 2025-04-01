@@ -114,7 +114,6 @@ for more details about each paper.
 - Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Leyi Cui, Steven Feiner, Kaveri Thakoor. "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer." Late-Breaking Work at CHI 2025, Yokohama, Japan. (Accepted)
 - Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, **_Haowen Wei_**, Hejie Cui, and Paul Pu Liang. "Data Foundations for Large Scale Multimodal Clinical Foundation Models." arXiv preprint arXiv:2503.07667 (2025). [Paper](https://arxiv.org/abs/2503.07667)
 
-[//]: # (Dai, Wei, Peilin Chen, Malinda Lu, Daniel Li, Haowen Wei, Hejie Cui, and Paul Pu Liang. "Data Foundations for Large Scale Multimodal Clinical Foundation Models." arXiv preprint arXiv:2503.07667 &#40;2025&#41;.)
 
 
 
