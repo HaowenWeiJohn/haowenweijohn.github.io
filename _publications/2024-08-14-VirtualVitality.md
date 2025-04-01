@@ -56,4 +56,4 @@ This project demonstrates how AI can support clinical decision-making, specifica
 
 
 **Additional Notes:**
-Detailed insights into this project can be found in my Master's thesis. The paper is currently under review for CHI 2025.
+Detailed insights into this project can be found in my Master's thesis. The paper is published in the CHI 2025 Late-Breaking Work track, showcasing the potential of AI in assisting ophthalmologists in diagnosing glaucoma more effectively.
