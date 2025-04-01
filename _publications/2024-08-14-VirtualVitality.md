@@ -17,8 +17,7 @@ venue: 'Submitted to [CHI 2025](https://chi2025.acm.org), Under Review'
 **Duration:** Aug 2024 – Present  
 **Role:** Project Lead, Lead Software Engineer, Experimenter, Co-First Author   
 **Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)    
-**Status:** *Withdraw from ACM Transactions on Computer-Human Interaction (TOCHI), Submitted to CHI 2025 Breaking Work*    
-
+**Status:** CHI 2025 Late-Breaking Work (Accepted)
 
 
 
