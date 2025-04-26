@@ -1,5 +1,5 @@
 ---
-title: "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer (Under Review)"
+title: "Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer"
 collection: publications
 authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Leyi Cui, Steven Feiner, Kaveri Thakoor'
 permalink: /publication/2024-08-11-VirtualVitality
