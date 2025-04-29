@@ -5,7 +5,9 @@ authors: 'Ziheng Li\*, **_Haowen Wei_**\*, Kuang Sun, David Li, Leyi Cui, Steven
 permalink: /publication/2024-08-11-VirtualVitality
 excerpt: "This project enhances glaucoma diagnosis using an expert knowledge-distilled Vision Transformer, providing AI-augmented insights to ophthalmologists. The system integrates deep learning with medical imaging to focus on key diagnostic features in retinal images, interactively highlighting areas of interest for improved diagnosis. Validated with a user study involving 15 ophthalmologists, the tool demonstrates the potential of AI in supporting clinical decision-making and aiming for more accurate glaucoma diagnosis."
 date: 2024-08-14
-venue: 'Submitted to [CHI 2025](https://chi2025.acm.org), Under Review'
+venue: '[The ACM (Association of Computing Machinery) CHI conference on Human Factors in Computing Systems, 2025](https://dl.acm.org/doi/10.1145/3706599.3719719)'
+videourl: 'https://www.youtube.com/watch?v=1aznz690KXE'
+paperurl: 'https://dl.acm.org/doi/10.1145/3706599.3719719'
 ---
 
 <div style="text-align: center;">
@@ -17,7 +19,7 @@ venue: 'Submitted to [CHI 2025](https://chi2025.acm.org), Under Review'
 **Duration:** Aug 2024 – Present  
 **Role:** Project Lead, Lead Software Engineer, Experimenter, Co-First Author   
 **Advisor:** [Dr. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner) & [Dr. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd)    
-**Status:** CHI 2025 Late-Breaking Work (Accepted)
+**Status:** The ACM (Association of Computing Machinery) CHI conference on Human Factors in Computing Systems, 2025
 
 
 
