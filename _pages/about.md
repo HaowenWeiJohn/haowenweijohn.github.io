@@ -52,6 +52,8 @@ Currently, I am a Research Assistant at the Martinos Center for Biomedical Imagi
 <div style="clear: both;"></div>
 
 <u>Research Interests:</u> 
+Sensor Fusion,
+Embodied AI,
 Computer Vision,
 Wireless Sensing,
 Virtual Reality (VR),
