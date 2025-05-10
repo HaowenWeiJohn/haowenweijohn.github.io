@@ -8,12 +8,13 @@ author_profile: true
 
 ## My Journey with Music 🎶
 
-Music has always been a profound part of my life. 🎼 I am deeply passionate about it, especially the piano.
-🎹 I believe that music is a universal language that can communicate emotions and ideas beyond words.
-🌍 During my undergraduate years, I performed once a year, each time deepening my appreciation for the art of music.
-🎤 One composer who has especially influenced me is **Frédéric Chopin**. 🎶
-His works, full of expression and technical elegance, resonate deeply with me. 🎵
-I hope you enjoy my music—check out my music below! 🎧
+Music has always been a meaningful part of my life. 🎼 I’m especially passionate about the piano—it’s where I feel most at home. 🎹 To me, music is a universal language, capable of expressing emotions and ideas that words sometimes can’t. 🌍
+
+During college, I made it a tradition to perform once a year. Each performance helped me grow as both a musician and a person, deepening my love for the art. 🎤 One composer who’s had a lasting influence on me is Frédéric Chopin. 🎶 His music, filled with emotion and technical beauty, speaks to me in a way that’s hard to put into words. 🎵
+
+I hope you enjoy listening to my music—it means a lot to me to be able to share it with you. 🎧
+
+
 
 
 
