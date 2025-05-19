@@ -102,8 +102,13 @@ Deep Learning, Machine Learning,
 
 ## Publications
 
-Please refer to [Publications Page](https://haowenweijohn.github.io/publications/)
+[//]: # (Please refer to [Publications Page]&#40;https://haowenweijohn.github.io/publications/&#41;)
+
+[//]: # (for more details about each paper.)
+
+Please refer to [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Haowen+Wei&oq=)
 for more details about each paper.
+
 
 **\* These Authors Contributed Equally.**
 - Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, **_Haowen Wei_**, Hejie Cui, and Paul Pu Liang. "Data Foundations for Large Scale Multimodal Clinical Foundation Models." arXiv preprint arXiv:2503.07667 (2025). [Paper](https://arxiv.org/abs/2503.07667)
