@@ -1,6 +1,6 @@
 export type NavItem =
-  | { label: string; to: string; href?: undefined; external?: undefined }
-  | { label: string; href: string; external: true; to?: undefined }
+  | { label: string; to: string; external?: false }
+  | { label: string; href: string; external: true }
 
 export const site = {
   name: 'Haowen "John" Wei',
@@ -21,5 +21,5 @@ export const site = {
     { label: 'Publications', to: '/publications' },
     { label: 'Music',        to: '/music' },
     { label: 'CV',           href: '/files/HaowenJohnWei_CV.pdf', external: true },
-  ] as const satisfies readonly NavItem[],
+  ] satisfies NavItem[],
 }

@@ -32,7 +32,7 @@ export function MobileNav() {
           </SheetHeader>
           <nav className="mt-4 flex flex-col gap-1 px-4 text-sm">
             {site.nav.map((item) =>
-              'href' in item && item.href ? (
+              item.external ? (
                 <a
                   key={item.label}
                   href={item.href}
@@ -46,7 +46,7 @@ export function MobileNav() {
               ) : (
                 <NavLink
                   key={item.label}
-                  to={item.to!}
+                  to={item.to}
                   end={item.to === '/'}
                   onClick={() => setOpen(false)}
                   className={({ isActive }) =>

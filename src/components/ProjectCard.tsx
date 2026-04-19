@@ -1,5 +1,6 @@
 import { Link } from 'react-router'
-import { ExternalLink, Github, Video, FileText } from 'lucide-react'
+import { ExternalLink, Video, FileText } from 'lucide-react'
+import { GitHubIcon } from '@/components/BrandIcons'
 import type { Project } from '@/data/projects'
 import { Card, CardContent, CardFooter } from '@/components/ui/card'
 import { AspectRatio } from '@/components/ui/aspect-ratio'
@@ -54,7 +55,7 @@ export function ProjectCard({ project }: Props) {
           )}
           {project.links.code && (
             <a href={project.links.code} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-foreground">
-              <Github className="h-3.5 w-3.5" aria-hidden /> Code
+              <GitHubIcon className="h-3.5 w-3.5" aria-hidden /> Code
             </a>
           )}
           {project.links.demo && (

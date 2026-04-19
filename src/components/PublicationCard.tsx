@@ -1,22 +1,25 @@
-import { ExternalLink, FileText, Github, Video, Database, Presentation } from 'lucide-react'
+import type { ComponentType, SVGProps } from 'react'
+import { ExternalLink, FileText, Video, Database, Presentation } from 'lucide-react'
+import { GitHubIcon } from '@/components/BrandIcons'
 import type { Publication } from '@/data/publications'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Markdown } from '@/components/Markdown'
 
 type Props = { pub: Publication }
+type IconComponent = ComponentType<SVGProps<SVGSVGElement>>
 
 const linkButtons: Array<{
   key: keyof NonNullable<Publication['links']>
   label: string
-  Icon: typeof FileText
+  Icon: IconComponent
 }> = [
-  { key: 'pdf',      label: 'PDF',     Icon: FileText },
-  { key: 'video',    label: 'Video',   Icon: Video },
-  { key: 'code',     label: 'Code',    Icon: Github },
-  { key: 'dataset',  label: 'Dataset', Icon: Database },
-  { key: 'slides',   label: 'Slides',  Icon: Presentation },
-  { key: 'external', label: 'Venue',   Icon: ExternalLink },
+  { key: 'pdf',      label: 'PDF',     Icon: FileText as IconComponent },
+  { key: 'video',    label: 'Video',   Icon: Video as IconComponent },
+  { key: 'code',     label: 'Code',    Icon: GitHubIcon },
+  { key: 'dataset',  label: 'Dataset', Icon: Database as IconComponent },
+  { key: 'slides',   label: 'Slides',  Icon: Presentation as IconComponent },
+  { key: 'external', label: 'Venue',   Icon: ExternalLink as IconComponent },
 ]
 
 export function PublicationCard({ pub }: Props) {

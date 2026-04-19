@@ -1,7 +1,8 @@
 import { NavLink } from 'react-router'
-import { Mail, Github, Linkedin, GraduationCap } from 'lucide-react'
+import { Mail, GraduationCap } from 'lucide-react'
 import { site } from '@/data/site'
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar'
+import { GitHubIcon, LinkedInIcon } from '@/components/BrandIcons'
 import { cn } from '@/lib/utils'
 
 export function Sidebar() {
@@ -42,7 +43,7 @@ export function Sidebar() {
           aria-label="GitHub"
           className="hover:text-foreground"
         >
-          <Github className="h-5 w-5" />
+          <GitHubIcon className="h-5 w-5" />
         </a>
         <a
           href={site.socials.linkedin}
@@ -51,13 +52,13 @@ export function Sidebar() {
           aria-label="LinkedIn"
           className="hover:text-foreground"
         >
-          <Linkedin className="h-5 w-5" />
+          <LinkedInIcon className="h-5 w-5" />
         </a>
       </div>
 
       <nav className="mt-2 flex flex-col gap-0.5 text-sm">
         {site.nav.map((item) =>
-          'href' in item && item.href ? (
+          item.external ? (
             <a
               key={item.label}
               href={item.href}
@@ -70,7 +71,7 @@ export function Sidebar() {
           ) : (
             <NavLink
               key={item.label}
-              to={item.to!}
+              to={item.to}
               end={item.to === '/'}
               className={({ isActive }) =>
                 cn(
