@@ -5,7 +5,6 @@ export type NavItem =
 export const site = {
   name: 'Haowen "John" Wei',
   shortName: 'Haowen Wei',
-  tagline: 'research wizard, game-making maestro, Chopin-obsessed pianist',
   affiliation: 'Martinos Center for Biomedical Imaging · Harvard Medical School / MGH',
   location: 'Boston, MA',
   avatar: '/images/avatar.png',
