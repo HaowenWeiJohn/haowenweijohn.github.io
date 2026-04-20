@@ -1,5 +1,5 @@
 import type { ComponentType, SVGProps } from 'react'
-import { ExternalLink, FileText, Video, Database, Presentation } from 'lucide-react'
+import { ExternalLink, FileText, Video, Database, Presentation, BookOpen } from 'lucide-react'
 import { GitHubIcon } from '@/components/BrandIcons'
 import type { Publication } from '@/data/publications'
 import { Badge } from '@/components/ui/badge'
@@ -16,6 +16,7 @@ const linkButtons: Array<{
   Icon: IconComponent
 }> = [
   { key: 'pdf',      label: 'PDF',     Icon: FileText as IconComponent },
+  { key: 'arxiv',    label: 'arXiv',   Icon: BookOpen as IconComponent },
   { key: 'video',    label: 'Video',   Icon: Video as IconComponent },
   { key: 'code',     label: 'Code',    Icon: GitHubIcon },
   { key: 'dataset',  label: 'Dataset', Icon: Database as IconComponent },

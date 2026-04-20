@@ -15,6 +15,7 @@ export type Publication = {
     code?: string
     dataset?: string
     slides?: string
+    arxiv?: string
     external?: string
   }
   teaser?: string
@@ -42,14 +43,15 @@ export const publications: Publication[] = [
     slug: 'sweyepinch',
     title: 'SwEYEpinch: Exploring Intuitive, Efficient Text Entry for Extended Reality via Eye and Hand Tracking',
     authors: 'Ziheng "Leo" Li, Xichen He, Mengyuan "Millie" Wu, Zeyi Tong, **Haowen Wei**, Benjamin Yang, Steven Feiner, Paul Sajda',
-    venue: '[CHI 2026](https://arxiv.org/abs/2604.03520)',
+    venue: '[CHI 2026](https://dl.acm.org/doi/10.1145/3772318.3791820)',
     year: 2026,
     date: '2026-04-01',
     abstract:
       'SwEYEpinch explores intuitive, efficient text entry for extended reality (XR) by combining eye tracking and hand tracking. Users look at letters in sequence and confirm selections via pinch gestures, enabling hands-free, keyboard-free input tailored to XR interaction.',
     advisors: ['Dr. Steven K. Feiner', 'Dr. Paul Sajda'],
     links: {
-      external: 'https://arxiv.org/abs/2604.03520',
+      external: 'https://dl.acm.org/doi/10.1145/3772318.3791820',
+      arxiv: 'https://arxiv.org/abs/2604.03520',
     },
     teaser: '/images/publications/SwEYEpe-Demo.gif',
   },
