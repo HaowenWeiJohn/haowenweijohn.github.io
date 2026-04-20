@@ -26,7 +26,7 @@ export const publications: Publication[] = [
     slug: 'glaucoma-vit',
     title: 'Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer',
     authors: 'Ziheng Li\\*, **Haowen Wei**\\*, Kuang Sun, David Li, Leyi Cui, Steven Feiner, Kaveri Thakoor',
-    venue: '[CHI 2025 Late-Breaking Work](https://dl.acm.org/doi/10.1145/3706599.3719719)',
+    venue: '[Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA \'25), Late-Breaking Work](https://dl.acm.org/doi/10.1145/3706599.3719719)',
     year: 2025,
     date: '2024-08-14',
     abstract:
@@ -43,7 +43,7 @@ export const publications: Publication[] = [
     slug: 'sweyepinch',
     title: 'SwEYEpinch: Exploring Intuitive, Efficient Text Entry for Extended Reality via Eye and Hand Tracking',
     authors: 'Ziheng "Leo" Li, Xichen He, Mengyuan "Millie" Wu, Zeyi Tong, **Haowen Wei**, Benjamin Yang, Steven Feiner, Paul Sajda',
-    venue: '[CHI 2026](https://dl.acm.org/doi/10.1145/3772318.3791820)',
+    venue: '[Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI \'26)](https://dl.acm.org/doi/10.1145/3772318.3791820)',
     year: 2026,
     date: '2026-04-01',
     abstract:
@@ -75,7 +75,7 @@ export const publications: Publication[] = [
     slug: 'physiolabxr',
     title: 'PhysioLabXR: A Software Platform for Real-Time Multi-Modal Brain-Computer Interfaces and Extended Reality Experiments',
     authors: 'Ziheng Li\\*, **Haowen Wei**\\*, Ziwen Xie, Yunxiang Peng, June Pyo Suh, Steven Feiner, Paul Sajda',
-    venue: '[Journal of Open Source Software, Sept 2023](https://joss.theoj.org/papers/10.21105/joss.05854)',
+    venue: '[Journal of Open Source Software, 8(90): 5854, 2023](https://joss.theoj.org/papers/10.21105/joss.05854)',
     year: 2023,
     date: '2024-09-11',
     abstract:
@@ -94,7 +94,7 @@ export const publications: Publication[] = [
     slug: 'lidar-mos',
     title: 'Real-Time LiDAR Point-Cloud Moving Object Segmentation for Autonomous Driving',
     authors: 'Xing Xie, **Haowen Wei**, Yongjie Yang',
-    venue: '[Sensors 23(1), 2023: 547](https://www.mdpi.com/1424-8220/23/1/547)',
+    venue: '[Sensors, 23(1): 547, 2023](https://www.mdpi.com/1424-8220/23/1/547)',
     year: 2023,
     date: '2022-12-29',
     abstract:
@@ -111,7 +111,7 @@ export const publications: Publication[] = [
     slug: 'proximity',
     title: 'Proximity Detection During Epidemics: Direct UWB TOA Versus Machine Learning Based RSSI',
     authors: 'Zhuoran Su, Kaveh Pahlavan, Emmanuel Agu, **Haowen Wei**',
-    venue: '[International Journal of Wireless Information Networks 29(4), 2022](https://link.springer.com/article/10.1007/s10776-022-00577-4)',
+    venue: '[International Journal of Wireless Information Networks, 29(4): 480–490, 2022](https://link.springer.com/article/10.1007/s10776-022-00577-4)',
     year: 2022,
     date: '2022-10-14',
     abstract:
@@ -128,7 +128,7 @@ export const publications: Publication[] = [
     slug: 'indexpen',
     title: 'IndexPen: Two-Finger Text Input with Millimeter-Wave Radar',
     authors: '**Haowen Wei**\\*, Ziheng Li\\*, Alexander D. Galvan, Zhuoran Su, Xiao Zhang, Kaveh Pahlavan, Erin T. Solovey',
-    venue: '[Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 6(2), 2022](https://dl.acm.org/doi/10.1145/3534601)',
+    venue: '[Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 6(2): 1–39, 2022](https://dl.acm.org/doi/10.1145/3534601)',
     year: 2022,
     date: '2023-07-07',
     abstract:
@@ -148,7 +148,7 @@ export const publications: Publication[] = [
     slug: 'mmwave-interference',
     title: 'A Study of Interference Analysis Between mmWave Radars and IEEE 802.11 AD at 60 GHz Bands',
     authors: 'Shiyu Cheng, Kaveh Pahlavan, **Haowen Wei**, Zhuoran Su, Seyed Reza Zekavat, Ali Abedi',
-    venue: '[International Journal of Wireless Information Networks 29(3), 2022](https://link.springer.com/article/10.1007/s10776-022-00564-9)',
+    venue: '[International Journal of Wireless Information Networks, 29(3): 222–231, 2022](https://link.springer.com/article/10.1007/s10776-022-00564-9)',
     year: 2022,
     date: '2022-09-15',
     abstract:
