@@ -41,7 +41,7 @@ export function PublicationCard({ pub }: Props) {
               src={pub.teaser}
               alt=""
               loading="lazy"
-              className="h-full w-full object-cover"
+              className="h-full w-full object-contain"
             />
           )}
         </AspectRatio>
