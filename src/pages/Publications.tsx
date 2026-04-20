@@ -3,7 +3,10 @@ import { site } from '@/data/site'
 import { PublicationCard } from '@/components/PublicationCard'
 
 export default function Publications() {
-  const sorted = [...publications].sort((a, b) => b.date.localeCompare(a.date))
+  const sorted = [...publications].sort((a, b) => {
+    if (b.year !== a.year) return b.year - a.year
+    return b.date.localeCompare(a.date)
+  })
 
   return (
     <div>

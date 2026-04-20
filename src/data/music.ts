@@ -4,9 +4,9 @@ export type MusicItem = {
   youtubeId: string
 }
 
-export const musicIntro = `Music has always been a meaningful part of my life. 🎼 I'm especially passionate about the piano — it's where I feel most at home. 🎹 To me, music is a universal language, capable of expressing emotions and ideas that words sometimes can't.
+export const musicIntro = `Music has always been a meaningful part of my life. 🎼 I'm especially passionate about the piano — it's where I feel most at home. 🎹 To me, music is a universal language, one that expresses emotions and ideas beyond what words can reach.
 
-During college I made it a tradition to perform once a year. Each performance helped me grow as both a musician and a person, deepening my love for the art. One composer who has had a lasting influence on me is Frédéric Chopin — his music, filled with emotion and technical beauty, speaks to me in a way that's hard to put into words.
+During college, I made it a tradition to perform once a year. Each performance helped me grow as both a musician and a person, deepening my love for the art. Frédéric Chopin, in particular, has had a lasting influence on me — his music, full of emotion and technical beauty, moves me in a way few other composers do.
 
 I hope you enjoy listening. 🎧`
 
