@@ -25,7 +25,7 @@ const linkButtons: Array<{
 ]
 
 export function PublicationCard({ pub }: Props) {
-  const titleHref = pub.links?.pdf ?? pub.links?.external
+  const titleHref = pub.links?.external ?? pub.links?.pdf
 
   return (
     <article
