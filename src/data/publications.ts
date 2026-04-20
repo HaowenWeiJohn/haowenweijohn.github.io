@@ -23,6 +23,22 @@ export type Publication = {
 
 export const publications: Publication[] = [
   {
+    slug: 'climb',
+    title: 'CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models',
+    authors: 'Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, **Haowen Wei**, Hejie Cui, Paul Pu Liang',
+    venue: 'Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)',
+    year: 2025,
+    date: '2025-07-15',
+    abstract:
+      'Recent advances in clinical AI have enabled remarkable progress across many clinical domains, but existing benchmarks and models are largely limited to a narrow set of modalities and tasks. We introduce the Clinical Large-Scale Integrative Multimodal Benchmark (CLIMB), a comprehensive benchmark unifying imaging, language, temporal, and graph modalities — 4.51 million patient samples totaling 19.01 TB spanning 2D imaging, 3D video, time series, graphs, and multimodal data — enabling training and evaluation of large-scale multimodal clinical foundation models.',
+    links: {
+      pdf: '/files/publications/2025-CLIMB.pdf',
+      arxiv: 'https://arxiv.org/abs/2503.07667',
+      external: 'https://icml.cc/virtual/2025/poster/45167',
+    },
+    teaser: '/images/publications/CLIMB.png',
+  },
+  {
     slug: 'glaucoma-vit',
     title: 'Interactively Assisting Glaucoma Diagnosis with an Expert Knowledge-distilled Vision Transformer',
     authors: 'Ziheng Li\\*, **Haowen Wei**\\*, Kuang Sun, David Li, Leyi Cui, Steven Feiner, Kaveri Thakoor',
