@@ -36,7 +36,7 @@ export const publications: Publication[] = [
       external: 'https://dl.acm.org/doi/10.1145/3706599.3719719',
       video: 'https://www.youtube.com/watch?v=1aznz690KXE',
     },
-    teaser: '/images/publications/2024-08-15-VirtualVitality-Teaser.png',
+    teaser: '/images/publications/glaucoma-system-overview.png',
   },
   {
     slug: 'sweyepe',
