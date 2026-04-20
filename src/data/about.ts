@@ -2,7 +2,9 @@ export const aboutHero = `👋 Welcome! I'm a dynamic researcher 🧠, inventive
 
 Check out my **[projects](/projects)** 🔬, **[publications](/publications)** 📝, and **[music](/music)** 🎵.`
 
-export const aboutBody = `I completed a double major in Computer Science and Electrical & Computer Engineering (Mechanical Engineering minor) at Worcester Polytechnic Institute, where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan). I earned my Master's degree in Computer Science at Columbia University under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd). My research focuses on multi-modal sensor fusion and Clinical AI.`
+export const aboutBody = `I completed a double major in Computer Science and Electrical & Computer Engineering (Mechanical Engineering minor) at Worcester Polytechnic Institute, where I was supervised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan). I earned my Master's degree in Computer Science at Columbia University under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd). My research focuses on multi-modal sensor fusion and Clinical AI.
+
+Currently, I am a Research Associate at MIT IMES and MIT.nano, advised by Dr. Praneeth Namburi and Dr. Brian Anthony.`
 
 export const researchInterests: string[] = [
   'Multimodal AI',
