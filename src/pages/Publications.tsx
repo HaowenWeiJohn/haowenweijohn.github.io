@@ -15,11 +15,11 @@ export default function Publications() {
             href={site.socials.scholar}
             target="_blank"
             rel="noopener noreferrer"
-            className="underline-offset-2 hover:underline"
+            className="text-sky-600 underline underline-offset-2 hover:text-sky-700"
           >
             Google Scholar
           </a>
-          . <span className="italic">* denotes equal contribution.</span>
+          .
         </p>
       </header>
 
