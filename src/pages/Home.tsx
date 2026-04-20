@@ -39,7 +39,7 @@ export default function Home() {
           <img
             src="/images/in-vr.png"
             alt="Haowen in VR"
-            className="h-40 w-auto self-center rounded-md object-cover md:h-44"
+            className="h-56 w-auto self-center rounded-md object-cover md:h-64"
             loading="lazy"
           />
           <div className="flex-1">
