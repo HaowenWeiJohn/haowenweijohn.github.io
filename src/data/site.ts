@@ -17,7 +17,6 @@ export const site = {
   },
   nav: [
     { label: 'Home',         to: '/' },
-    { label: 'Projects',     to: '/projects' },
     { label: 'Publications', to: '/publications' },
     { label: 'Music',        to: '/music' },
     { label: 'CV',           href: '/files/HaowenJohnWei_CV.pdf', external: true },

@@ -1,6 +1,6 @@
 export const aboutHero = `👋 Welcome! I'm a dynamic researcher 🧠, inventive game developer 🎮, and a passionate pianist 🎹 with an unwavering love for Chopin 🎼.
 
-Check out my **[projects](/projects)** 🔬, **[publications](/publications)** 📝, and **[music](/music)** 🎵.`
+Check out my **[publications](/publications)** 📝 and **[music](/music)** 🎵.`
 
 export const aboutBody = `I completed a double major in Computer Science and Electrical & Computer Engineering, with a minor in Mechanical Engineering, at Worcester Polytechnic Institute, where I was advised by [Prof. Erin Solovey](https://users.wpi.edu/~esolovey/) and [Prof. Kaveh Pahlavan](https://en.wikipedia.org/wiki/Kaveh_Pahlavan). I earned my Master's degree in Computer Science at Columbia University under the guidance of [Prof. Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Prof. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Prof. Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd). My research focuses on multimodal sensor fusion and clinical AI.
 
@@ -18,5 +18,3 @@ export const researchInterests: string[] = [
 ]
 
 export const otherInterests: string[] = ['Piano', 'Soccer', 'Chess']
-
-export const featuredProjectSlugs: readonly string[] = ['physiolabxr', 'indexpen']

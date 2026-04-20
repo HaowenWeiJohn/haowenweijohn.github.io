@@ -5,20 +5,13 @@ import {
   aboutBody,
   researchInterests,
   otherInterests,
-  featuredProjectSlugs,
 } from '@/data/about'
 import { news } from '@/data/news'
-import { projects } from '@/data/projects'
 import { Markdown } from '@/components/Markdown'
-import { ProjectCard } from '@/components/ProjectCard'
 import { NewsItem } from '@/components/NewsItem'
 import { Separator } from '@/components/ui/separator'
 
 export default function Home() {
-  const featured = featuredProjectSlugs
-    .map((slug) => projects.find((p) => p.slug === slug))
-    .filter((p): p is NonNullable<typeof p> => p !== undefined)
-
   return (
     <div className="space-y-10">
       <section>
@@ -83,17 +76,6 @@ export default function Home() {
       <Separator />
 
       <section>
-        <h3 className="text-lg font-semibold">Featured Projects</h3>
-        <div className="mt-4 grid gap-5 md:grid-cols-2">
-          {featured.map((p) => (
-            <ProjectCard key={p.slug} project={p} />
-          ))}
-        </div>
-      </section>
-
-      <Separator />
-
-      <section>
         <h3 className="text-lg font-semibold">Recent News</h3>
         <ul className="mt-3 divide-y">
           {news.map((item) => (
@@ -110,12 +92,6 @@ export default function Home() {
           className="inline-flex items-center gap-1 hover:underline"
         >
           See all publications <ArrowRight className="h-3.5 w-3.5" />
-        </Link>
-        <Link
-          to="/projects"
-          className="inline-flex items-center gap-1 hover:underline"
-        >
-          See all projects <ArrowRight className="h-3.5 w-3.5" />
         </Link>
       </section>
     </div>
