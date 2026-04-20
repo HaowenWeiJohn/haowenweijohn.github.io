@@ -7,16 +7,14 @@ export const aboutBody = `I completed a double major in Computer Science and Ele
 I specialized in developing multimodal sensor fusion systems for virtual and augmented reality (VR/AR), integrating physiological data to study decision-making and navigation in real-world scenarios. My vision includes helping those with neurodegenerative disorders by designing BCIs that improve daily life, combining technology with a commitment to enhancing well-being. Currently, I am a Research Assistant at the Martinos Center for Biomedical Imaging, Harvard Medical School, where I am working on closed-loop neuro-stimulation.`
 
 export const researchInterests: string[] = [
-  'Sensor Fusion',
+  'Multimodal AI',
   'Embodied AI',
-  'Computer Vision',
+  'Sensor Fusion',
   'Wireless Sensing',
   'Virtual Reality (VR)',
   'Augmented Reality (AR)',
   'Neuroimaging (EEG, fNIRS, fMRI)',
   'Brain Stimulation (TMS, tDCS)',
-  'Signal Processing',
-  'Deep Learning, Machine Learning',
 ]
 
 export const otherInterests: string[] = ['Piano', 'Soccer', 'Chess']
