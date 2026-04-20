@@ -34,7 +34,7 @@ export function PublicationCard({ pub }: Props) {
       <div className="w-full shrink-0 md:w-56">
         <AspectRatio
           ratio={16 / 9}
-          className="overflow-hidden rounded-md border bg-muted"
+          className="overflow-hidden rounded-md bg-muted"
         >
           {pub.teaser && (
             <img
