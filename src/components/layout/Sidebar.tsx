@@ -14,7 +14,8 @@ export function Sidebar() {
           <AvatarFallback>HW</AvatarFallback>
         </Avatar>
         <h1 className="mt-3 text-lg font-semibold leading-tight">{site.name}</h1>
-        <p className="mt-3 text-xs text-muted-foreground">{site.affiliation}</p>
+        <p className="mt-1 text-xs text-muted-foreground">{site.title}</p>
+        <p className="mt-2 text-xs text-muted-foreground">{site.affiliation}</p>
         <p className="mt-1 text-xs text-muted-foreground">{site.location}</p>
       </div>
 
