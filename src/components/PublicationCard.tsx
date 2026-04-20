@@ -1,5 +1,5 @@
 import type { ComponentType, SVGProps } from 'react'
-import { ExternalLink, FileText, Video, Database, Presentation, BookOpen } from 'lucide-react'
+import { FileText, Video, Database, Presentation, BookOpen } from 'lucide-react'
 import { GitHubIcon } from '@/components/BrandIcons'
 import type { Publication } from '@/data/publications'
 import { Badge } from '@/components/ui/badge'
@@ -21,7 +21,6 @@ const linkButtons: Array<{
   { key: 'code',     label: 'Code',    Icon: GitHubIcon },
   { key: 'dataset',  label: 'Dataset', Icon: Database as IconComponent },
   { key: 'slides',   label: 'Slides',  Icon: Presentation as IconComponent },
-  { key: 'external', label: 'Venue',   Icon: ExternalLink as IconComponent },
 ]
 
 export function PublicationCard({ pub }: Props) {
