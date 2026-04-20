@@ -50,13 +50,14 @@ export const projects: Project[] = [
     },
   },
   {
-    slug: 'sweyepe',
-    title: 'SwEYEpe — Efficient Text-Entry in Mixed Reality',
-    blurb: 'Multi-modal text entry in MR using tap, gaze, and pinch — gaze-path swipe with language-model matching.',
-    tags: ['XR', 'Eye Tracking', 'HCI'],
-    media: { src: '/images/publications/SwEYEpe-Demo.gif', alt: 'SwEYEpe demo' },
+    slug: 'sweyepinch',
+    title: 'SwEYEpinch — Efficient Text Entry for XR',
+    blurb: 'Hands-free text entry for extended reality using combined eye tracking and hand pinch gestures.',
+    tags: ['XR', 'Eye Tracking', 'Hand Tracking', 'HCI'],
+    media: { src: '/images/publications/SwEYEpe-Demo.gif', alt: 'SwEYEpinch demo' },
     links: {
-      publication: '/publications#sweyepe',
+      publication: '/publications#sweyepinch',
+      paper: 'https://arxiv.org/abs/2604.03520',
     },
   },
   {

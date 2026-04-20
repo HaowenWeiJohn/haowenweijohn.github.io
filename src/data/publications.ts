@@ -39,16 +39,18 @@ export const publications: Publication[] = [
     teaser: '/images/publications/VirtualVitality-Demo.gif',
   },
   {
-    slug: 'sweyepe',
-    title: 'Efficient Text-Entry in Mixed Reality: Tap, Gaze & Pinch, SwEYEpe',
-    authors: '**Haowen Wei**\\*, Ziheng Li\\*, Xichen He, Ben Yang, Steven Feiner',
-    venue: 'CHI 2025 Late-Breaking Work',
-    year: 2025,
-    date: '2023-12-04',
+    slug: 'sweyepinch',
+    title: 'SwEYEpinch: Exploring Intuitive, Efficient Text Entry for Extended Reality via Eye and Hand Tracking',
+    authors: 'Ziheng "Leo" Li, Xichen He, Mengyuan "Millie" Wu, Zeyi Tong, **Haowen Wei**, Benjamin Yang, Steven Feiner, Paul Sajda',
+    venue: '[CHI 2026](https://arxiv.org/abs/2604.03520)',
+    year: 2026,
+    date: '2026-04-01',
     abstract:
-      'SwEYEpe reimagines text-entry in mixed reality (MR) environments by utilizing gaze paths instead of traditional finger swipes. The system combines tapping, gaze, pinching, and swiping into an intuitive experience: users enter text by looking at letters in sequence, mimicking mobile-keyboard swiping but with eye movements. A fixation-detection algorithm filters the gaze path, and a language model matches it to the most likely word candidates.',
-    role: 'Project Lead, Lead Software Engineer, Experimenter',
-    advisors: ['Dr. Steven K. Feiner'],
+      'SwEYEpinch explores intuitive, efficient text entry for extended reality (XR) by combining eye tracking and hand tracking. Users look at letters in sequence and confirm selections via pinch gestures, enabling hands-free, keyboard-free input tailored to XR interaction.',
+    advisors: ['Dr. Steven K. Feiner', 'Dr. Paul Sajda'],
+    links: {
+      external: 'https://arxiv.org/abs/2604.03520',
+    },
     teaser: '/images/publications/SwEYEpe-Demo.gif',
   },
   {
