@@ -5,7 +5,7 @@ export type NavItem =
 export const site = {
   name: 'Haowen "John" Wei',
   shortName: 'Haowen Wei',
-  affiliation: 'Martinos Center for Biomedical Imaging · Harvard Medical School / MGH',
+  affiliation: 'MIT',
   location: 'Boston, MA',
   avatar: '/images/avatar.png',
   socials: {
