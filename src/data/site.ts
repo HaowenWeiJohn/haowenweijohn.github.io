@@ -5,7 +5,7 @@ export type NavItem =
 export const site = {
   name: 'Haowen "John" Wei',
   shortName: 'Haowen Wei',
-  affiliation: 'MIT',
+  affiliation: 'Massachusetts Institute of Technology',
   location: 'Boston, MA',
   avatar: '/images/avatar.png',
   socials: {
