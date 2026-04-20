@@ -6,6 +6,11 @@ export type NewsItem = {
 
 export const news: NewsItem[] = [
   {
+    date: '2025-07-01',
+    emoji: '🔬',
+    text: 'Started a new position as a **Research Associate** at the **MIT Institute for Medical Engineering and Science (IMES)** and the **MIT.nano Immersion Lab**.',
+  },
+  {
     date: '2024-09-06',
     emoji: '🏢',
     text: 'Began my new position as a **Research Assistant** at the **Martinos Center for Biomedical Imaging**, Harvard Medical School.',
