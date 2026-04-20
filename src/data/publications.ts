@@ -84,7 +84,7 @@ export const publications: Publication[] = [
       video: 'https://www.youtube.com/watch?v=IJpYk-y0O2g',
       external: 'https://joss.theoj.org/papers/10.21105/joss.05854',
     },
-    teaser: '/images/publications/2024-01-11-PhysioLabXR-Teaser.png',
+    teaser: '/images/publications/PhysioLabXR-fMRI-Demo.gif',
   },
   {
     slug: 'lidar-mos',
@@ -138,7 +138,7 @@ export const publications: Publication[] = [
       dataset: 'https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study',
       external: 'https://dl.acm.org/doi/10.1145/3534601',
     },
-    teaser: '/images/publications/2022-07-07-IndexPen-Teaser.png',
+    teaser: '/images/publications/IndexPen-Demo.gif',
   },
   {
     slug: 'mmwave-interference',
