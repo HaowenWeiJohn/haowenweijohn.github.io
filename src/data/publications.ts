@@ -65,6 +65,7 @@ export const publications: Publication[] = [
       external: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=phrai3MAAAAJ&citation_for_view=phrai3MAAAAJ:Y0pCki6q_DkC',
       pdf: 'https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&',
     },
+    teaser: '/images/publications/columbia-engineering.png',
   },
   {
     slug: 'physiolabxr',
