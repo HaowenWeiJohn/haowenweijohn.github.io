@@ -33,19 +33,43 @@ export function PublicationCard({ pub }: Props) {
       className="scroll-mt-24 flex flex-col gap-4 border-b py-6 first:pt-0 last:border-b-0 md:flex-row"
     >
       <div className="w-full shrink-0 md:w-56">
-        <AspectRatio
-          ratio={16 / 9}
-          className="overflow-hidden rounded-md bg-muted"
-        >
-          {pub.teaser && (
-            <img
-              src={pub.teaser}
-              alt=""
-              loading="lazy"
-              className="h-full w-full object-contain"
-            />
-          )}
-        </AspectRatio>
+        {titleHref ? (
+          <a
+            href={titleHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={pub.title}
+            className="block transition-opacity hover:opacity-85"
+          >
+            <AspectRatio
+              ratio={16 / 9}
+              className="overflow-hidden rounded-md bg-muted"
+            >
+              {pub.teaser && (
+                <img
+                  src={pub.teaser}
+                  alt=""
+                  loading="lazy"
+                  className="h-full w-full object-contain"
+                />
+              )}
+            </AspectRatio>
+          </a>
+        ) : (
+          <AspectRatio
+            ratio={16 / 9}
+            className="overflow-hidden rounded-md bg-muted"
+          >
+            {pub.teaser && (
+              <img
+                src={pub.teaser}
+                alt=""
+                loading="lazy"
+                className="h-full w-full object-contain"
+              />
+            )}
+          </AspectRatio>
+        )}
       </div>
 
       <div className="flex-1">
