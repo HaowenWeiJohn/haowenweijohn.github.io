@@ -28,6 +28,6 @@ export const news: NewsItem[] = [
   {
     date: '2024-05-01',
     emoji: '🥳',
-    text: "Successfully defended my Master's thesis, *From Brain-Computer Interfaces to AI-Enhanced Diagnostics* ([paper](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1673&format=pdf&)), under the supervision of [Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd).",
+    text: "Successfully defended my Master's thesis, *From Brain-Computer Interfaces to AI-Enhanced Diagnostics* ([paper](https://www.researchgate.net/publication/383876115_From_Brain-Computer_Interfaces_to_AI-Enhanced_Diagnostics_Developing_Cutting-Edge_Tools_for_Medical_and_Interactive_Technologies)), under the supervision of [Steven K. Feiner](https://www.engineering.columbia.edu/faculty/steven-feiner), [Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda), and [Kaveri Thakoor](https://www.vagelos.columbia.edu/profile/kaveri-thakoor-phd).",
   },
 ]
