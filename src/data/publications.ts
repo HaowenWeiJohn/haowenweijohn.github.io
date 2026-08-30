@@ -83,7 +83,7 @@ export const publications: Publication[] = [
     advisors: ['Dr. Steven K. Feiner', 'Dr. Paul Sajda', 'Dr. Kaveri Thakoor'],
     links: {
       external: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=phrai3MAAAAJ&citation_for_view=phrai3MAAAAJ:Y0pCki6q_DkC',
-      pdf: 'https://www.researchgate.net/publication/383876115_From_Brain-Computer_Interfaces_to_AI-Enhanced_Diagnostics_Developing_Cutting-Edge_Tools_for_Medical_and_Interactive_Technologies',
+      pdf: '/files/publications/2024-05-11-Thesis.pdf',
     },
     teaser: '/images/publications/columbia-engineering.png',
   },
