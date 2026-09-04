@@ -23,6 +23,22 @@ export type Publication = {
 
 export const publications: Publication[] = [
   {
+    slug: 'qoq-med3',
+    title: 'QoQ-Med3: A Multimodal Reasoning Foundation Model for Clinical Analysis',
+    authors: 'David Dai, Jeannie She, Jiaee Cheong, Xing Han, Carl Harris, **Haowen Wei**, Farzan Vahedifard, Suchi Saria, Robert Stevens, Paul Liang',
+    venue: 'npj Digital Medicine, 2026',
+    year: 2026,
+    date: '2026-07-25',
+    abstract:
+      'Multimodal reasoning-based foundation models (MRFMs) hold considerable promise for clinical practice, yet their readiness for real-world deployment remains insufficiently explored. We develop two MRFMs, QoQ-Med3 and QoQ-Med3-MIMIC, and systematically evaluate their generalizability to unseen clinical modalities and tasks, transferability to held-out datasets from different clinical sites, and robustness to cross-site heterogeneity. QoQ-Med3 achieves an overall balanced accuracy of 71.3% and an F1 of 0.349, surpassing all open-source and closed-source models including GPT-4o, with especially pronounced gains in understudied modalities such as ultrasound and mammography, while reducing extrinsic hallucination rates by 44.4% after training. Trained on public clinical data only, the model generalizes to both the held-out MIMIC-IV and the private JHU PMAP dataset collected at Johns Hopkins University Hospital.',
+    links: {
+      pdf: '/files/publications/2026-QoQ-Med3.pdf',
+      code: 'https://github.com/DDVD233/qoq_med3',
+      external: 'https://www.nature.com/articles/s41746-026-02945-3',
+    },
+    teaser: '/images/publications/QoQ-Med3.png',
+  },
+  {
     slug: 'climb',
     title: 'CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models',
     authors: 'Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, **Haowen Wei**, Hejie Cui, Paul Pu Liang',
